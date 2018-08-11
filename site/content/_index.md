@@ -10,9 +10,12 @@ quotes:
     - image: img/illustrations-coffee.svg
       text: "afdsdfsdf sa variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
       author: "prof. Marian Zembala"
+      text: "We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature."
     - image: /img/illustrations-coffee-gear.svg
       text: "fvnbocnbnkblndkfbin dsada asda dsad dsas adasd ddsadsadour shop."
       author: "prof. Marian Zembala"
+      text: "We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature."
+
 letter:
     image: img/about-direct-sourcing.jpg
     title1: "List"

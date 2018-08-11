@@ -5,11 +5,18 @@
 
     <div class="flex-ns mhn2-ns mb3 flex-column">
       {{ range .quotes }}
-      <div class="ph2-ns w-90-ns flex-ns flex-row">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
-        <p>{{.text}}</p>
+      <div class="flex-row w-90-ns flex-ns">
+        <div class="ph2-ns ">
+          <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+        </div>
+        <div class="flex mhn2-ns mb3 flex-column ">
+          <p>{{.text}}</p>
+          <p>{{.author}}</p>
+        </div>
       </div>
-      <p>{{.author}}</p>
+      <p class="mw-none">
+        {{.text}}
+      </p>
       {{ end }}
     </div>
 
