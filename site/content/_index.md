@@ -9,8 +9,11 @@ oKampanii:
 quotes:
     - image: img/illustrations-coffee.svg
       text: "afdsdfsdf sa variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      author: prof. Marian Zembala
     - image: /img/illustrations-coffee-gear.svg
-      text: "fvnbocnbnkblndkfbin our shop."
+      text: "fvnbocnbnkblndkfbin dsada asda dsad dsas adasd ddsadsadour shop."
+      author: prof. Marian Zembala
+
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
