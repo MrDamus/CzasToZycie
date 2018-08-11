@@ -6,8 +6,173 @@
       <p class="mw-100">{{.text}}</p>
     </div>
     <div>
-      chart
+      <svg class="chart"></svg>
     </div>
- 
+    <style>
+        .bar {
+          /* fill: #FF2C2E; */
+        }
+        
+        .bar:hover {
+          fill: rgb(253, 76, 79);
+        }
+        
+        .axis text {
+          font: 10px sans-serif;
+        }
+        
+        .axis path,
+        .axis line {
+          fill: none;
+          stroke: #000;
+          shape-rendering: crispEdges;
+        }
+        
+        .x.axis path {
+          display: none;
+        }
+        
+        .tooltip {
+          position: absolute;
+          padding: 10px;
+          font: 12px sans-serif;
+          background: #222;
+          color: #fff;
+          border: 0px;
+          border-radius: 8px;
+          pointer-events: none;
+          opacity: 0.9;
+          visibility: hidden;
+        }
+        </style>
+        
+        <script src="//d3js.org/d3.v3.min.js"></script>
+        <script>
+          let i = 0;
+          let animationEnabled = true;
+        const animateBar = (bars, y, height) =>
+        {
+          let bar = d3.select(bars[0][i]);
+        
+          const shift = 10;
+          
+          setTimeout(() => {
+            i++;
+            if(i < bars[0].length) {
+              requestAnimationFrame(() => animateBar(bars, y, height))
+            } else {
+              i = 0;
+            }
+          }, 50)
+        
+          bar.transition()
+            .duration(200)
+            .ease("ease")
+            .attr("y",d => y(d['y']) - shift)
+            .attr("height", d => height + shift - y(d['y']))
+            .attr("fill", '#8b0000')
+            .transition()
+            .duration(100)
+            .ease("ease")
+            .attr("y",d => y(d['y']))
+            .attr("height", d => height - y(d['y']))
+            .attr("fill", '#FF2C2E')
+        }
+        
+        
+        const animateChart = (bar, y, height) => {
+          animateBar(bar, y, height)
+        }
+        ///////////////////////
+        // Parse the Data
+        d3.csv("data.csv", data => {
+        
+          ///////////////////////
+          // Chart Size Setup
+          var margin = { top: 35, right: 0, bottom: 30, left: 40 };
+        
+          var chartWidth = window.innerWidth - margin.left - margin.right;
+          var height = 500 - margin.top - margin.bottom;
+        
+          var chart = d3.select(".chart")
+              .attr("width", chartWidth)
+              .attr("height", 500)
+            .append("g")
+              .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+        
+          ///////////////////////
+          // Scales
+          var x = d3.scale.ordinal()
+              .domain(data.map(d => d['x']))
+              .rangeRoundBands([0, chartWidth], 0.1);
+        
+          var y = d3.scale.linear()
+              .domain([0, d3.max(data, d => d['y']) * 1.1])
+              .range([height, 0]);
+        
+          ///////////////////////
+          // Axis
+          var xAxis = d3.svg.axis()
+              .scale(x)
+              .orient("bottom");
+        
+          var yAxis = d3.svg.axis()
+              .scale(y)
+              .orient("left");
+        
+          chart.append("g")
+              .attr("class", "x axis")
+              .attr("transform", "translate(0," + height + ")")
+              .call(xAxis);
+        
+          chart.append("g")
+              .attr("class", "y axis")
+              .call(yAxis);
+        
+          ///////////////////////
+          // Bars
+        
+          var bar = chart.selectAll(".bar")
+              .data(data)
+            .enter().append("rect")
+              .attr("fill", '#FF2C2E')
+              .attr("class", "bar")
+              .attr("x", d => x(d['x']))
+              .attr("y", height)
+              .attr("width", x.rangeBand())
+              .attr("height", 0);
+        
+          bar.transition()
+              .duration(1500)
+              .ease("elastic")
+              .attr("y",d => y(d['y']))
+              .attr("height", d => height - y(d['y']))
+        
+          ///////////////////////
+          // Tooltips
+          var tooltip = d3.select("body").append("div")
+              .attr("class", "tooltip");
+        
+          bar.on("mouseover", function(d) {
+                tooltip.html(d['y'])
+                    .style("visibility", "visible");
+              })
+              .on("mousemove", function(d) {
+                tooltip.style("top", event.pageY - (tooltip[0][0].clientHeight + 5) + "px")
+                    .style("left", event.pageX - (tooltip[0][0].clientWidth / 2.0) + "px");
+              })
+              .on("mouseout", function(d) {
+                tooltip.style("visibility", "hidden");
+              });
+            
+          setInterval(() => {
+            if(!window.document.hidden){
+              if(animationEnabled) {
+                animateChart(bar, y, height)
+              }
+            }
+          }, 5000)
+        });
+        </script>
   </div>
 </div>

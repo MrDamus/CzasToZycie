@@ -8,12 +8,12 @@ oKampanii:
     text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 quotes:
     - image: img/illustrations-coffee.svg
-      text: "afdsdfsdf sa variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      quote: "afdsdfsdf sa variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
       author: "prof. Marian Zembala"
       text: "We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature."
     - image: /img/illustrations-coffee-gear.svg
-      text: "fvnbocnbnkblndkfbin dsada asda dsad dsas adasd ddsadsadour shop."
-      author: "prof. Marian Zembala"
+      quote: "fvnbocnbnkblndkfbin dsada asda dsad dsas adasd ddsadsadour shop."
+      author: "prof. Marian Zembalaasdasd"
       text: "We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature."
 letter:
     image: img/about-direct-sourcing.jpg
@@ -39,6 +39,16 @@ przyczyny:
 stats:
     heading: Statystyki
     text: Coffee is an amazing part of human culture.
+postepowanie:
+    heading: Postepowanie
+    image: img/illustrations-coffee.svg
+    texts:
+    - text: Coffee is an amazing part of human culture.
+    - text: a dark side too
+    - text: turn this around.
+    - text: return the coffee.
+    - text: trade to the drink’s.
+    - text: empowering and unifying nature.
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
