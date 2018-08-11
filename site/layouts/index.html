@@ -1,13 +1,18 @@
 {{ define "main" }}
-
+ 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+ 
+{{ partial "text-and-image" (dict "heading" .Params.oKampanii.heading "text" .Params.oKampanii.text "image" .Params.oKampanii.image) }}
+ 
+{{ partial "quotes" (dict "quotes" .Params.quotes) }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "letter" (dict "image" .Params.letter.image "text1" .Params.letter.text1 "text2" .Params.letter.text2 "title1" .Params.letter.title1 "title2" .Params.letter.title2) }}
 
-{{ partial "2-up" .Params }}
-
+{{ partial "2-up" (dict "products" .Params.products) }}
+ 
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
+ 
 {{ partial "blog" . }}
-
+ 
 {{ end }}
+ 
