@@ -5,9 +5,7 @@
     <div class="flex-l mhn2-l">
       <p class="mw-100">{{.text}}</p>
     </div>
-    <div>
-      <svg class="chart"></svg>
-    </div>
+      <svg id="svg" class="chart"></svg>
     <style>
         .bar {
           /* fill: #FF2C2E; */
@@ -89,9 +87,15 @@
         
           ///////////////////////
           // Chart Size Setup
-          var margin = { top: 35, right: 0, bottom: 30, left: 40 };
-        
-          var chartWidth = window.innerWidth - margin.left - margin.right;
+          var margin = { top: 35, right: 40, bottom: 30, left: 40 };
+
+          function parentWidth(elem) {
+            return elem.parentElement.clientWidth;
+          }
+          
+          var parentWidth = parentWidth(document.getElementById('svg'));
+
+          var chartWidth = (parentWidth * .95) - margin.left - margin.right;
           var height = 500 - margin.top - margin.bottom;
         
           var chart = d3.select(".chart")
