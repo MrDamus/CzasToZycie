@@ -1,13 +1,30 @@
 {{ define "main" }}
-
+ 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "nav" . }}
+ 
+{{ partial "text-and-image" (dict "heading" .Params.oKampanii.heading "text" .Params.oKampanii.text "image" .Params.oKampanii.image) }}
+ 
+{{ partial "quotes" (dict "quotes" .Params.quotes) }}
 
-{{ partial "2-up" .Params }}
+{{ partial "letter" (dict "image" .Params.letter.image "text1" .Params.letter.text1 "text2" .Params.letter.text2 "title1" .Params.letter.title1 "title2" .Params.letter.title2) }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "abc" (dict "heading" .Params.abc.heading "text1" .Params.abc.text1 "text2" .Params.abc.text2 "text3" .Params.abc.text3 "image" .Params.abc.image) }}
 
-{{ partial "blog" . }}
+{{ partial "objawy" (dict "heading" .Params.objawy.heading "text1" .Params.objawy.text1 "text2" .Params.objawy.text2 "text3" .Params.objawy.text3 "image" .Params.objawy.image) }}
 
+{{ partial "title-text" (dict "heading" .Params.przyczyny.heading "text" .Params.przyczyny.text ) }}
+
+{{ partial "title-text-chart" (dict "heading" .Params.stats.heading "text" .Params.stats.text ) }}
+
+{{ partial "postepowanie" (dict "heading" .Params.postepowanie.heading "texts" .Params.postepowanie.texts "image" .Params.postepowanie.image) }}
+
+{{ partial "socials" }}
+
+{{ partial "partners" (dict "heading" .Params.partners.heading "text" .Params.partners.text ) }}
+
+{{ partial "partners" (dict "heading" .Params.kontakt.heading "text" .Params.kontakt.text ) }}
+ 
 {{ end }}
+ 
