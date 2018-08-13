@@ -19,8 +19,12 @@
 {{ partial "postepowanie" (dict "heading" .Params.postepowanie.heading "texts" .Params.postepowanie.texts "image" .Params.postepowanie.image) }}
 
 {{ partial "socials" }}
- 
-{{ partial "blog" . }}
+
+{{ partial "partners" (dict "heading" .Params.partners.heading "text" .Params.partners.text ) }}
+
+{{ partial "partners" (dict "heading" .Params.kontakt.heading "text" .Params.kontakt.text ) }}
+
+<!-- {{ partial "blog" . }} -->
  
 {{ end }}
  

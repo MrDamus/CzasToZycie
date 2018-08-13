@@ -1,7 +1,7 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: "Zawał serca"
+subtitle: czas to zycie
+image: /img/image1.png
 oKampanii:
     heading: O Kampanii
     image: /img/serce.gif
@@ -49,6 +49,13 @@ postepowanie:
     - text: return the coffee.
     - text: trade to the drink’s.
     - text: empowering and unifying nature.
+partners:
+    heading: Partnerzy
+    text: "Our partners shows here"
+kontakt:
+    heading: Kontakt
+    text: "....."
+
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
