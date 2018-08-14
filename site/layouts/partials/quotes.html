@@ -1,4 +1,4 @@
-<div class="bg-off-white pv4">
+<div class="bg-off-white">
   <div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw6">{{.intro.text}}</p>
@@ -7,10 +7,10 @@
       {{ range .quotes }}
       <div class="flex-row w-90-ns flex-ns">
         <div class="ph2-ns ">
-          <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
+          <i class="fas fa-quote-left primary f1 pa3"></i>
         </div>
         <div class="flex mhn2-ns mb3 flex-column ">
-          <p>{{.quote}}</p>
+          <p class="i w-100">{{.quote}}</p>
           <p>{{.author}}</p>
         </div>
       </div>
