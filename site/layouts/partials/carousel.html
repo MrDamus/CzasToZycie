@@ -1,28 +1,17 @@
-{{ if isset .Site.Params "carousel" }}
-{{ if .Site.Params.carousel.enable }}
-{{ if gt (len .Site.Data.carousel) 0 }}
-<section>
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel">
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-5 right">
-                            <h1>{{ .title }}</h1>
-                            {{ .description | safeHTML }}
-                        </div>
-                        <div class="col-sm-7">
-                            <p>{{ .text }}</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="ph3 mw7 center">
+        <hr>
+      <div class="flex-ns mhn2-ns mb3 flex-column pt4">
+        <h1 class="f2 f2-l b di lh-title mb3">
+          {{.heading}}
+        </h1>
+            <div class="carousel">
+                <div class="carousel-slide"><p class="w-100">{{.text1}}</p> </div>
+                <div class="carousel-slide"><p class="w-100">{{.text2}}</p> </div>
+                <div class="carousel-slide"><p class="w-100">{{.text3}}</p> </div>
+                <div class="carousel-slide"><p class="w-100">{{.text4}}</p> </div>
+                <div class="carousel-slide"><p class="w-100">{{.text5}}</p> </div>
+                <div class="carousel-slide"><p class="w-100">{{.text6}}</p> </div>
         </div>
+      </div>
     </div>
-</section>
-{{ end }}
-{{ end }}
-{{ end }}
-
-<!-- https://www.cssscript.com/responsive-carousel-plugin-in-vanilla-javascript-papacarousel/ -->
+  

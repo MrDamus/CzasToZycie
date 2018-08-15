@@ -70,9 +70,22 @@ postepowanie:
     - text: Czekając na karetkę, połóż się i nie wykonuj niepotrzebnych wysiłków. Jeśli mieszkasz w bloku lub na  trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom cię zlokalizować. Personel pogotowia ratunkowego jest przeszkolony w rozpoznawaniu objawów zawału serca. Karetka pogotowia zapewni ci szybki i bezpośredni dojazd do ośrodka, gdzie można rozpocząć leczenie.
     - text: Jeśli masz zawał serca, będziesz potrzebował natychmiastowego leczenia – udrożnienia zatkanej tętnicy i przywrócenia dopływu krwi do serca. Takie postępowanie zatrzyma proces obumierania komórek mięśnia sercowego.
     - text: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
+carousel:
+    heading: "Historie pacjentów"
+    text1: 48 lat, bóle w nadbrzuszu i nudności na weselu, zgłosił się do lekarza rodzinnego następnego dnia, Opóźnienie 36 godzin!!!
+
+    text2: 64 lata, Bóle w klatce i drętwienie lewej ręki na działce, Powrót do domu, telefon do córki,  Transport prywatnym samochodem do szpitala, Opóźnienie 8 godzin!!!
+
+    text3: 68 lat, Bóle w klatce i drętwienie lewej ręki nad ranem, Śniadanie dla męża i wnuków, Wizyta w Poradni Rejonowej rano, Opóźnienie 6 godzin!!!
+
+    text4: 34 lata, Wakacje w Egipcie; Bóle pleców, lewego barku i lewej ręki; Obawy związane z ubezpieczeniem, Opóźnienie 24 godziny!!!
+
+    text5: 54 lata, Nawracające silne bóle w klatce piersiowej promieniujące do szyi i żuchwy, Leki przeciwbólowe, Oczekiwanie na umówioną wizytę u kardiologa, Opóźnienie 48 godzin!!!
+
+    text6: Takich histrorii jest tysiące...
 
 partners:
-    heading: Partnerzy
+    heading: "Partnerzy"
     text: "..."
 kontakt:
     heading: Kontakt
