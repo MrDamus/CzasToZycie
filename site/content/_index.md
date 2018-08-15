@@ -77,4 +77,7 @@ partners:
 kontakt:
     heading: Kontakt
     text: "....."
+blog: 
+    heading: Latest stories
+    text: "....."
 ---
