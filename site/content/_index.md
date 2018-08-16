@@ -78,6 +78,6 @@ kontakt:
     heading: Kontakt
     text: "....."
 blog: 
-    heading: Latest stories
+    heading: aktualności
     text: "....."
 ---
