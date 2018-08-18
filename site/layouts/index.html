@@ -22,6 +22,8 @@
 
 {{ partial "socials" }}
 
+{{ partial "carousel" (dict "heading" .Params.carousel.heading "text1" .Params.carousel.text1 "text2" .Params.carousel.text2 "text3" .Params.carousel.text3 "text4" .Params.carousel.text4 "text5" .Params.carousel.text5 "text6" .Params.carousel.text6) }}
+
 {{ partial "partners" (dict "heading" .Params.partners.heading "text" .Params.partners.text ) }}
 
 {{ partial "partners" (dict "heading" .Params.kontakt.heading "text" .Params.kontakt.text ) }}
