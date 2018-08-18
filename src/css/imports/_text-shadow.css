@@ -1,17 +1,17 @@
-.shadow       { 	text-shadow: 0px -8px 1px rgba(37, 37, 37, 0.7);
+.shadow       { 	text-shadow: 0px -6px 1px rgba(37, 37, 37, 0.7);
  }
 
 @media (--breakpoint-not-small) {
-  .shadow-ns       { 	text-shadow: 0px -5px 1px rgba(37, 37, 37, 0.7);
+  .shadow-ns       { 	text-shadow: 0px -3px 1px rgba(37, 37, 37, 0.7);
  }
 }
 
 @media (--breakpoint-medium) {
-  .shadow-m       { 	text-shadow: 0px -6px 1px rgba(37, 37, 37, 0.7);
+  .shadow-m       { 	text-shadow: 0px -4px 1px rgba(37, 37, 37, 0.7);
  }
 }
 
 @media (--breakpoint-large) {
-  .shadow-l       { 	text-shadow: 0px -9px 1px rgba(37, 37, 37, 0.7);
+  .shadow-l       { 	text-shadow: 0px -7px 1px rgba(37, 37, 37, 0.7);
  }
 }
