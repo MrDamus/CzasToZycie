@@ -1,6 +1,6 @@
 ---
-title: "Zawał!"
-subtitle: Twoje serce umiera z każdą minutą
+title: "Zawał! Twoje serce"
+subtitle: Umiera z każdą minutą
 image: /img/heart-attack.jpg
 oKampanii:
     heading: O Kampanii
@@ -11,7 +11,7 @@ quotes:
     - image: http://via.placeholder.com/300x300
       quote: Wielu z nas uważa, że zawał serca ich nie dotyczy i nawet gdy objawy wskazują na początek zawału, zwlekają z reakcją tak długo jak to tylko możliwe. Czasem kilka, kilkanaście, a czasem nawet kilkadziesiąt godzin. Tymczasem w przypadku zawału serca reakcja musi być natychmiastowa, bo im szybciej chory trafi w ręce specjalistów, tym większe są jego szanse na przeżycie, a także na normalne życie po zawale.
       author: "prof. Marian Zembala"
-      text1: "Dlatego tak ważny jest kontakt z numerem alarmowym 112 już w momencie, gdy zaobserwujemy u siebie lub u kogoś w najbliższym otoczeniu objawy zawału serca i wezwanie karetki pogotowia. To najskuteczniejszy środek ratujący serce!"
+      text1: Dlatego tak ważny jest kontakt z numerem alarmowym **112** już w momencie, gdy zaobserwujemy u siebie lub u kogoś w najbliższym otoczeniu objawy zawału serca i wezwanie karetki pogotowia. To najskuteczniejszy środek ratujący serce!
       text2: "Co roku w Polsce około 100 tysięcy kobiet i mężczyzn w różnym wieku, dostaje zawału serca. Polscy lekarze potrafią skutecznie leczyć zawał, jednak co trzecia z tych osób umiera, bo zbyt późno zadzwoniła po karetkę."
 
     - image: http://via.placeholder.com/300x300
