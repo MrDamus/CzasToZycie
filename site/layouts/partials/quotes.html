@@ -2,26 +2,26 @@
   <div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw6">{{.intro.text}}</p>
-    
     <div class="flex-ns mhn2-ns mb3 flex-column">
+    
+    <div class="flex-ns mhn2-ns mb3 flex-column ph2-l">
       {{ range .quotes }}
-      <div class="flex-row w-90-ns flex-ns">
+      <div class="flex-row flex-ns">
         <div class="ph2-ns ">
-          <i class="fas fa-quote-left primary f1 pa3"></i>
+          <i class="fas fa-quote-left primary f1 pa3 dn-s"></i>
         </div>
         <div class="flex mhn2-ns mb3 flex-column ">
-          <p class="i w-100">{{.quote}}</p>
+          <p class="i mw-none">{{.quote}}</p>
           <p class="fw9">{{.author}}</p>
         </div>
       </div>
       <p class="mw-none">
-        {{.text1}}
+          {{.text1 | markdownify }}
       </p>
       <p class="mw-none">
           {{.text2}}
         </p>
       {{ end }}
     </div>
-    
   </div>
 </div>
