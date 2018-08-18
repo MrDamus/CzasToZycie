@@ -1,7 +1,7 @@
 ---
 title: "Zawał!"
 subtitle: Twoje serce umiera z każdą minutą
-image: /img/image1.png
+image: /img/heart-attack.jpg
 oKampanii:
     heading: O Kampanii
     image: /img/serce.gif
@@ -29,7 +29,7 @@ letter:
     title2: "Materiały do pobrania"
 abc:
     heading: ABC zawału
-    image: http://via.placeholder.com/300x300
+    image: /img/red-stethoscope.jpg
     text1: "Zawał serca oznacza martwicę wywołaną niedokrwieniem. Następuje on w momencie zamknięcia naczynia krwionośnego w sercu, co zwykle jest skutkiem pęknięcia blaszki miażdżycowej w naczyniu wieńcowym, czyli naczyniu doprowadzającym krew do serca. W związku brakiem dopływ krwi, a tym samym tlenu do mięśnia sercowego, obumiera odcięty fragmen serca."
 
     text2: "Im dłużej tętnica (naczynie wieńcowe) jest zamknięta, tym większy obszar serca umiera. Szybkie rozpoczęcie leczenia mającego na celu otwarcie tętnicy zwiększa szansę na uratowanie mięśnia sercowego. Ilość czasu na interwencję jest jednak ograniczony. Zwykle po 3–6 godzinach umiera cały obszar mięśnia sercowego zaopatrywany przez zamkniętą tętnicę wieńcową i wówczas zmiany te są nieodwracalne, nawet przy zastosowaniu nowoczesnych metod leczenia."
@@ -38,7 +38,7 @@ abc:
 
 objawy:
     heading: Najczestsze objawy zawału serca
-    image: http://via.placeholder.com/150x150
+    image: /img/chest-pain.jpg
     text1: "Najczęstsze objawy zawału serca to ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem. Występują one u większości chorych z zawałem."
 
     text2: "Ból zgłaszany przez chorego ma charakter rozlany (patrz: ryc. 3.), a nie punktowy, tzn. nie można wskazać miejsca bólu jednym palcem. Dlatego pacjent z zawałem serca zazwyczaj wskazuje miejsce bólu, przykładając całą pięść do mostka."
