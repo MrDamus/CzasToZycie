@@ -30,6 +30,7 @@
   height: 40px;
   width: 40px;
   position: absolute;
+  margin-top: 70px;
 }
 
 .purejscarousel-btn-next {
@@ -39,6 +40,8 @@
   -webkit-transform: rotate(315deg);
   transform: rotate(315deg);
   right: 10%;
+  margin-top: 70px;
+
 }
 
 .purejscarousel-btn-prev {
@@ -48,4 +51,6 @@
   -webkit-transform: rotate(45deg);
   transform: rotate(45deg);
   left: 10%;
+  margin-top: 70px;
+
 }
