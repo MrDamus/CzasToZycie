@@ -9,3 +9,6 @@
 5) Partnerzy
 
 Kontakt możemy umieścić na dole strony,
+
+
+zmniejszyc padding w o kampanii

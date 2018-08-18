@@ -37,13 +37,20 @@ abc:
     text3: "Czasem do zawału serca dochodzi w wyniku pęknięcia blaszki miażdżycowej. Zdarza się, że rosnąca przez długi czas blaszka miażdżycowa, doprowadza do dużego zwężenia naczynia, co znacznie ogranicza dopływ krwi do fragmentu serca, a tym samym zaopatrywania w tlen."
 
 objawy:
-    heading: Najczestsze objawy zawału serca
-    image: /img/chest-pain.jpg
+    heading1: Najczestsze objawy zawału serca
+    image1: /img/chest-pain.jpg
     text1: "Najczęstsze objawy zawału serca to ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem. Występują one u większości chorych z zawałem."
 
     text2: "Ból zgłaszany przez chorego ma charakter rozlany (patrz: ryc. 3.), a nie punktowy, tzn. nie można wskazać miejsca bólu jednym palcem. Dlatego pacjent z zawałem serca zazwyczaj wskazuje miejsce bólu, przykładając całą pięść do mostka."
 
     text3: "Ból trwa zwykle ponad 20 minut; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. U osób w starszym wieku lub chorujących na cukrzycę ból w trakcie zawału może być mniej charakterystyczny albo (rzadko) nie występuje wcale. Wówczas zawał objawia się np. w postaci zasłabnięcia lub duszności."
+    heading2: "Co powinno zwrócić Twoją uwagę?"
+    image2: http://via.placeholder.com/300x300
+    image3: http://via.placeholder.com/300x300
+    image4: http://via.placeholder.com/300x300
+    image5: http://via.placeholder.com/300x300
+    image6: http://via.placeholder.com/300x300
+    image7: http://via.placeholder.com/300x300
 
 przyczyny:
     heading: Przyczyny zawału serca
