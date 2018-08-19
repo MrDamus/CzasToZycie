@@ -18,10 +18,10 @@ quotes:
       quote: Niewielu z nas zdaje sobie sprawę, że już od pierwszych minut zawału w sercu powstają nieodwracalne zmiany, które postępują z upływem czasu. Będą one mieć znaczący wpływ na jakość życia chorego po zawale.
       author: "prof. Marian Zembala"
       text1: "Niestety średnio od pierwszych objawów zawału serca tj. bólu w klatce piersiowej, do udzielenia pacjentowi pierwszej pomocy mijają w Polsce około 2 i pół godziny."
-      text2: "Czas w jakim zostanie udzielona pomoc pacjentowi z zawałem serca – zależy także od Ciebie! Dlatego jeśli czujesz ból w klatce piersiiowej? Nie zwlekaj! Zadzwoń pod 112 i wezwij pogotowie!"
+      text2: "Czas w jakim zostanie udzielona pomoc pacjentowi z zawałem serca – zależy także od Ciebie! Dlatego jeśli czujesz ból w klatce piersiiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!"
 
 letter:
-    image: http://via.placeholder.com/200x200
+    image: /img/prezydentowa.png
     title1: "List Małżonki Prezydenta Rzeczypospolitej Polskiej"
     text1: „Szanowni Państwo. Moje zaangażowanie w kampanię społeczną „Zawał serca – czas to życie” było decyzją świadomą, płynącą z przekonania, że należy głośno mówić o chorobach układu krążenia, chorobach pozostających nadal główną przyczyną umieralności w Polsce. Śląskie Centrum Chorób Serca w Zabrzu ma w swojej długiej historii wiele udanych operacji i zabiegów ratujących życie. Dlatego warto wsłuchiwać się w głos pracujących tam specjalistów, kiedy mówią o potrzebie edukacji społecznej w zakresie objawów zawału serca i czynników ryzyka jego wystąpienia, a także metod leczenia i stosowania profilaktyki zawałowej."
 
@@ -58,14 +58,14 @@ postepowanie:
     heading: Postępowanie w przypadku zawału
     image: http://via.placeholder.com/400x400
     texts:
-    - text: Czujesz silny ból w klatce piersiowej? Nie zwlekaj! Zadzwoń pod 112 i wezwij pogotowie!
+    - text: Czujesz silny ból w klatce piersiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!
 
-    - text: "Mając objawy typowe dla zawału serca, zadzwoń pod 112 nawet wówczas, gdy nie jesteś pewien, czy to zawał. Czas rozpoczęcia leczenia ma kluczowe znaczenie, a każda minuta wahania zwiększa ryzyko zgonu lub poważnych konsekwencji zdrowotnych. Pamiętaj: Każde 10 minut opóźnienia interwencji lekarza w przypadku zawału zabiera bezpowrotnie twoje zdrowie i życie!"
+    - text: "Mając objawy typowe dla zawału serca, zadzwoń pod **112** nawet wówczas, gdy nie jesteś pewien, czy to zawał. Czas rozpoczęcia leczenia ma kluczowe znaczenie, a każda minuta wahania zwiększa ryzyko zgonu lub poważnych konsekwencji zdrowotnych. Pamiętaj: Każde 10 minut opóźnienia interwencji lekarza w przypadku zawału zabiera bezpowrotnie twoje zdrowie i życie!"
 
-    - text:  Dzwoniąc pod 112 poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc osobę z twojego otoczenia. Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. Podczas kontaktu z depozytorem odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
+    - text:  Dzwoniąc pod **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc osobę z twojego otoczenia. Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. Podczas kontaktu z depozytorem odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
 
     - text: UWAGA!!!
-    - text: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem), nie szukaj pomocy u krewnych lub u lekarza rodzinnego, natychmiast zadzwoń pod 112 i wezwij karetkę. 
+    - text: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem), nie szukaj pomocy u krewnych lub u lekarza rodzinnego, natychmiast zadzwoń pod **112** i wezwij karetkę. 
 
     - text: Czekając na karetkę, połóż się i nie wykonuj niepotrzebnych wysiłków. Jeśli mieszkasz w bloku lub na  trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom cię zlokalizować. Personel pogotowia ratunkowego jest przeszkolony w rozpoznawaniu objawów zawału serca. Karetka pogotowia zapewni ci szybki i bezpośredni dojazd do ośrodka, gdzie można rozpocząć leczenie.
     - text: Jeśli masz zawał serca, będziesz potrzebował natychmiastowego leczenia – udrożnienia zatkanej tętnicy i przywrócenia dopływu krwi do serca. Takie postępowanie zatrzyma proces obumierania komórek mięśnia sercowego.
