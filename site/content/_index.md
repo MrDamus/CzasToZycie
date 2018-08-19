@@ -72,17 +72,23 @@ postepowanie:
     - text: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
 carousel:
     heading: "Historie pacjentów"
-    text1: 48 lat, bóle w nadbrzuszu i nudności na weselu, zgłosił się do lekarza rodzinnego następnego dnia, Opóźnienie 36 godzin!!!
-
-    text2: 64 lata, Bóle w klatce i drętwienie lewej ręki na działce, Powrót do domu, telefon do córki,  Transport prywatnym samochodem do szpitala, Opóźnienie 8 godzin!!!
-
-    text3: 68 lat, Bóle w klatce i drętwienie lewej ręki nad ranem, Śniadanie dla męża i wnuków, Wizyta w Poradni Rejonowej rano, Opóźnienie 6 godzin!!!
-
-    text4: 34 lata, Wakacje w Egipcie; Bóle pleców, lewego barku i lewej ręki; Obawy związane z ubezpieczeniem, Opóźnienie 24 godziny!!!
-
-    text5: 54 lata, Nawracające silne bóle w klatce piersiowej promieniujące do szyi i żuchwy, Leki przeciwbólowe, Oczekiwanie na umówioną wizytę u kardiologa, Opóźnienie 48 godzin!!!
-
-    text6: Takich histrorii jest tysiące...
+    items:
+        - name: 62 letnia kobieta
+          text1: To był zwykły poniedziałek, dzień jak każdy inny, po południu zrobiłam zakupy zajmowałam się dziećmi, znaczy się wnukami, ,około godziny 4 zaczęły się bole, o tu za mostkiem. Ustępowały i wracały, miałam już problem z sercem więc nie zamierzałam tego bagatelizować. Od razu zadzwoniłam do swojej przychodni. Pani rejestratorka powiedziała mi, że doktor przyjmie mnie o godz 5 30.  Zadzwoniłam po córkę, odebrała dzieci i zawiozła mnie do przychodni.  Zanim weszłam do gabinetu zrobiono mi EKG. Czekała pod gabinetem jeszcze 10 minut było sporo osób z kaszlem i katarem. W końcu poprosiłam pielęgniarkę, żeby zapytała doktor o przyjęcie poza wyznaczona kolejką. Od tych paru minut bóle w klatce bardzo się wzmogły, czułam się źle. Pielęgniarka wzięła EKG i weszła do gabinetu. Nie minęła minuta, a doktorka z pielęgniarką wyszły razem. Od razu zaprowadziły mnie do gabinetu zabiegowego, położyły na kozetce. Lekarka poinformowała mnie że podejrzewa u mnie zawał serca i dzwoni po karetkę pogotowi, żeby przekazać mnie do dalszego leczenia do szpitala. Po 10 minutach na miejscu było pogotowie, lekarz z karetki wykonał mi EKG po chwili poinformował mnie, że mam zawał i że rozmawiał z dyżurnym kardiologiem w Zabrze z Kliniki u Religii i że niezwłocznie mnie tam wiozą celem dalszego leczenia
+          text2: "Główny powód opóźniena: umówienie się z lekarzem rodzinnym, brak wezwania karetki pogotowia ."
+        - name: 59-letnia kobieta
+          text1: Zdarzało mi się palić ale dotychczas większych problemów z sercem nie miałam. Ostatni dzień października byłam zagoniona. Wiadomo przed 1 listopada trzeba było wszystko przygotować, odświeżyć nagrobki, kupić znicze. Przez ten cały stres i gonitwę czułam się źle. Parę razy ale nie stałe poczułam taki dyskomfort w klatce. Wszystko zwaliłam na karb tej grobowej gonitwy. Tak teraz myślę, że sama prawie wylądowałam na cmentarzu, nie wiele brakowało. No i przyszedł ten cmentarny dzień. Rano obudziłam się przeszłam parę kroków do kuchni, pojawił się dyskomfort, ale minął. W południe pojechałam na groby, było zimno ale do zniesienia. Dyskomfort nawracał, przy przejściu od grobu do grobu, było coraz gorzej. W końcu usiadłam a ból nie minął. Poprosiłam syna żeby zadzwonił na pogotowie, czułam że dzieje się ze mną coś złego. Powoli udało mi się jeszcze wyjść z cmentarza. Karetka była szybko, zabrali mnie z pod bramy. Do słownie i w przenośni. Taka granica między życiem a śmiercią. W karetce powiedzieli że mam zawał i że to był ostatni dzwonek. Jednak mimo wszystko byłam dobrej myśli. Stwierdziłam że mało kto jedzie w tą stroną z tamtąd. Więc musi być dobrze. Jakby miało być źle to zostałabym już na tym cmentarzu. Byłam w Zabrzu około godziny 17. Od momentu wezwania pogotowia nie trwało to już długo. Zabieg a później to cale leczenie. Mam nadzieje że 1 listopada za rok będę dalej tu a nie tam. ( śmiech)
+          text2: Główny powód opóźnienia. Chęć zrealizowania obowiązków danego dnia w pierwszej kolejności.
+        - name: 43- letni mężczyzna
+          text1:  Od paru dni miałem infekcje, kasze , katar, gorączka. Poszedłem do swojego lekarza wypisał antybiotyk, leki przeciwgorączkowego i tak to leciało . W końcu nadeszła środa, dziwne bóle w      klatce piersiowej, nie miałem jeszcze takich. Raz się pojawiała drugi raz zanikały. Ciągnęło się to od późnego popołudnia, gdzieś około 16. Najpierw pomyślałem że to coś z płucami, ale chwile później przyszła refleksja że to może nie płuca a serca. Bo od paru dni czułem się lepiej. To skąd to nagłe pogorszenie,. Taki tępy ból trzymał mnie do 6, później lekko zelżał. O 9 kiedy znowu wrócił z podobna siła jak wcześniej spakowałem swoje rzeczy i pojechałem do szpitala do was. Już wtedy podejrzewałem że coś nie tak. Już na izbie u was dolegliwości mi się na silił. Praktycznie z marszu pojechałem na stół. Wyglądało na to że zgłosiłem się rychło w czas. Była godzina 22. 
+          text2:  Opóźnienie od początku bólów do interwencji 5h. Brak znajomości objawów. Przyjechał sam do szpitala.
+        - name: 65-letni kobieta
+          text1:  Pacjentka z rozpoznaną astmą przyjmująca leki wziewne.
+            W dniu ślubu córki, rano poczuła się gorzej. Wystąpił ból w klatce piersiowej, duszność i drżenie mięśni. Chora uznała, że to napad astmatyczny i zażyła leki wziewne, odpoczęła chwilę, zjadła śniadanie i wydawało jej się, że jej samopoczucie poprawiło się.
+            Wzięła udział w uroczystości weselnej , na Sali bawiła się jeszcze z wnukami ale czuła się coraz gorzej. Kiedy, w towarzystwie synowej wyszła na zewnątrz w celu zapalenia papierosa (!), zrobiło jej się słabo i rodzina wezwała pogotowie. Chorą przewieziono do Szpitala Miejskiego w Biskupicach a po kolejnych 3 godzinach do SCCS. W rezultacie chora wjechała na zabieg hemodynamiczny w czasie kiedy na Sali weselnej odbywały się tradycyjne oczepiny ;-)
+            Od tego czasu pani Brygida znacznie ograniczyła palenie i  planuje zupełnie wyzwolić się z tego nałogu, wychodzi częściej na spacer ze swoimi pieskami stosuje się do zaleceń lekarskich.
+            Przed nią jeszcze jedno, potencjalnie stresujące wydarzenie- niebawem będzie wydawała za mąż ostatnia córkę i  ma nadzieję, że tym razem nic nie zakłóci tej uroczystości.
+          text2:  "Opóźnienie: chora chciała uczestniczyć  w ważnej uroczystości rodzinnej, brak znajomości objawów"
 
 partners:
     heading: "Partnerzy"
