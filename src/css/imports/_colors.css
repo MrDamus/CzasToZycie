@@ -12,6 +12,10 @@
   color: var(--white);
 }
 
+.red {
+  color: #ff2c2e;
+}
+
 .off-white {
   color: var(--off-white);
 }
@@ -70,6 +74,10 @@
 
 .bg-black {
   background-color: var(--black);
+}
+
+.bg-red {
+  background-color: #ff2c2e;
 }
 
 .bg-fix-primary {
