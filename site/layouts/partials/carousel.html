@@ -3,13 +3,22 @@
     <h1 class="f2 f2-l b di lh-title mb3">
       {{.heading}}
     </h1>
-    <div class="carousel">
-      <div class="carousel-slide"><p class="w-100">{{.text1}}</p> </div>
-      <div class="carousel-slide"><p class="w-100">{{.text2}}</p> </div>
-      <div class="carousel-slide"><p class="w-100">{{.text3}}</p> </div>
-      <div class="carousel-slide"><p class="w-100">{{.text4}}</p> </div>
-      <div class="carousel-slide"><p class="w-100">{{.text5}}</p> </div>
-      <div class="carousel-slide"><p class="w-100">{{.text6}}</p> </div>
-    </div>
+    <div class="b-carousel" id="carousel">
+          <div class="b-carousel__frame">
+            <ul class="b-carousel__items">
+              {{ range .items }}
+                <li>
+                  <h2>{{.name}}</h2>
+                  <p>
+                      {{.text1}}
+                  </p>
+                  <p>
+                    {{.text2}}
+                  </p>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        </div>
   </div>
 </div>
