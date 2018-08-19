@@ -1,23 +1,22 @@
-<footer class="bg-black ph3 pv4 white">
+<footer class="bg-red ph3 pv4 white">
 
 	<div class="mw7 center pt3">
 
-		<div class="center mb4">
-			<div class="flex justify-center">
-				<img src="/img/serce-inverted.png" alt="" style="width:128px;height:128px;">
-			</div>
-
+		<div class="center mb4 flex justify-between">
 			
-			<div class="flex-ns justify-between">
-				
+			<div class="flex-ns justify-between flex-auto" style="max-width: 150px">
 				<div>
-					<h3 class="f4 b lh-title mb2 primary">Połącz się:</h3>
+					<h3 class="f4 b lh-title mb2 primary white">Połącz się:</h3>
 					<ul class="mhn2">
 						{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
 						{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
 					</ul>
 				</div>
 			</div>
+			<div class="flex justify-center flex-auto">
+				<img src="/img/serce-inverted.png" alt="" style="width:128px;height:128px;">
+			</div>
+			<div class="flex" style="width: 150px"></div>
 		</div>
 	</div>
 
