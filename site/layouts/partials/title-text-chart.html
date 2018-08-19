@@ -170,18 +170,21 @@
           ///////////////////////
           // Tooltips
           var tooltip = d3.select("body").append("div")
-              .attr("class", "tooltip");
+              .attr("class", "tooltip")
+              .style("display", "none");
         
           bar.on("mouseover", function(d) {
                 tooltip.html(d['y'])
-                    .style("visibility", "visible");
+                    .style("visibility", "visible")
+                    .style("display", "block");
               })
               .on("mousemove", function(d) {
                 tooltip.style("top", event.pageY - (tooltip[0][0].clientHeight + 5) + "px")
                     .style("left", event.pageX - (tooltip[0][0].clientWidth / 2.0) + "px");
               })
               .on("mouseout", function(d) {
-                tooltip.style("visibility", "hidden");
+                tooltip.style("visibility", "hidden")
+                .style("display", "none");
               });
           
           setInterval(() => {

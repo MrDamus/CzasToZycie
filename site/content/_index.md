@@ -37,13 +37,31 @@ abc:
     text3: "Czasem do zawału serca dochodzi w wyniku pęknięcia blaszki miażdżycowej. Zdarza się, że rosnąca przez długi czas blaszka miażdżycowa, doprowadza do dużego zwężenia naczynia, co znacznie ogranicza dopływ krwi do fragmentu serca, a tym samym zaopatrywania w tlen."
 
 objawy:
-    heading: Najczestsze objawy zawału serca
-    image: /img/chest-pain.jpg
+    heading1: Najczęstsze objawy zawału serca
+    image1: /img/7.png
     text1: "Najczęstsze objawy zawału serca to ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem. Występują one u większości chorych z zawałem."
 
     text2: "Ból zgłaszany przez chorego ma charakter rozlany (patrz: ryc. 3.), a nie punktowy, tzn. nie można wskazać miejsca bólu jednym palcem. Dlatego pacjent z zawałem serca zazwyczaj wskazuje miejsce bólu, przykładając całą pięść do mostka."
 
     text3: "Ból trwa zwykle ponad 20 minut; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. U osób w starszym wieku lub chorujących na cukrzycę ból w trakcie zawału może być mniej charakterystyczny albo (rzadko) nie występuje wcale. Wówczas zawał objawia się np. w postaci zasłabnięcia lub duszności."
+
+    heading2: Co powinno zwrócić Twoją uwagę?
+    image2: /img/1.png
+    text4: ból w żuchwie, szyi, plecach ręce lub barku
+    image3: /img/2.png
+    text5: ból brzucha z towarzyszącymi nudnościami lub wymiotami
+    image4: /img/3.png
+    text6: duszność
+    image5: /img/4.png
+    text7: zasłabnięcia lub utrata przytomności
+    image6: /img/5.png
+    text8: obfite zimne poty i zawroty głowy
+    image7: /img/6.png
+    text9: lęk przed zbliżającą się śmiercią
+    text10: "**Zapamiętaj**"
+    text11: Osoby, które już przebyły zawał, często z powodu odmiennych objawów nie rozpoznają kolejnego. Każdy zawał może mieć inne objawy. 
+
+
 
 przyczyny:
     heading: Przyczyny zawału serca
@@ -58,31 +76,28 @@ postepowanie:
     heading: Postępowanie w przypadku zawału
     image: http://via.placeholder.com/400x400
     texts:
-    - text: Czujesz silny ból w klatce piersiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!
+        text1: Czujesz silny ból w klatce piersiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!
+        text2: "Mając objawy typowe dla zawału serca, zadzwoń pod **112** nawet wówczas, gdy nie jesteś pewien, czy to zawał. Czas rozpoczęcia leczenia ma kluczowe znaczenie, a każda minuta wahania zwiększa ryzyko zgonu lub poważnych konsekwencji zdrowotnych. Pamiętaj: Każde 10 minut opóźnienia interwencji lekarza w przypadku zawału zabiera bezpowrotnie twoje zdrowie i życie!"
+        text3:  Dzwoniąc pod **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc osobę z twojego otoczenia. Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. Podczas kontaktu z depozytorem odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
+        text4: UWAGA!!!
+        text5: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem), nie szukaj pomocy u krewnych lub u lekarza rodzinnego, natychmiast zadzwoń pod **112** i wezwij karetkę. 
+        text6: Czekając na karetkę, połóż się i nie wykonuj niepotrzebnych wysiłków. Jeśli mieszkasz w bloku lub na  trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom cię zlokalizować. Personel pogotowia ratunkowego jest przeszkolony w rozpoznawaniu objawów zawału serca. Karetka pogotowia zapewni ci szybki i bezpośredni dojazd do ośrodka, gdzie można rozpocząć leczenie.
+        text7: Jeśli masz zawał serca, będziesz potrzebował natychmiastowego leczenia – udrożnienia zatkanej tętnicy i przywrócenia dopływu krwi do serca. Takie postępowanie zatrzyma proces obumierania komórek mięśnia sercowego.
+        text8: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
 
-    - text: "Mając objawy typowe dla zawału serca, zadzwoń pod **112** nawet wówczas, gdy nie jesteś pewien, czy to zawał. Czas rozpoczęcia leczenia ma kluczowe znaczenie, a każda minuta wahania zwiększa ryzyko zgonu lub poważnych konsekwencji zdrowotnych. Pamiętaj: Każde 10 minut opóźnienia interwencji lekarza w przypadku zawału zabiera bezpowrotnie twoje zdrowie i życie!"
-
-    - text:  Dzwoniąc pod **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc osobę z twojego otoczenia. Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. Podczas kontaktu z depozytorem odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
-
-    - text: UWAGA!!!
-    - text: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem), nie szukaj pomocy u krewnych lub u lekarza rodzinnego, natychmiast zadzwoń pod **112** i wezwij karetkę. 
-
-    - text: Czekając na karetkę, połóż się i nie wykonuj niepotrzebnych wysiłków. Jeśli mieszkasz w bloku lub na  trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom cię zlokalizować. Personel pogotowia ratunkowego jest przeszkolony w rozpoznawaniu objawów zawału serca. Karetka pogotowia zapewni ci szybki i bezpośredni dojazd do ośrodka, gdzie można rozpocząć leczenie.
-    - text: Jeśli masz zawał serca, będziesz potrzebował natychmiastowego leczenia – udrożnienia zatkanej tętnicy i przywrócenia dopływu krwi do serca. Takie postępowanie zatrzyma proces obumierania komórek mięśnia sercowego.
-    - text: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
 carousel:
     heading: "Historie pacjentów"
     items:
-        - name: 62 letnia kobieta
+        - name: 62-letnia kobieta
           text1: To był zwykły poniedziałek, dzień jak każdy inny, po południu zrobiłam zakupy zajmowałam się dziećmi, znaczy się wnukami, ,około godziny 4 zaczęły się bole, o tu za mostkiem. Ustępowały i wracały, miałam już problem z sercem więc nie zamierzałam tego bagatelizować. Od razu zadzwoniłam do swojej przychodni. Pani rejestratorka powiedziała mi, że doktor przyjmie mnie o godz 5 30.  Zadzwoniłam po córkę, odebrała dzieci i zawiozła mnie do przychodni.  Zanim weszłam do gabinetu zrobiono mi EKG. Czekała pod gabinetem jeszcze 10 minut było sporo osób z kaszlem i katarem. W końcu poprosiłam pielęgniarkę, żeby zapytała doktor o przyjęcie poza wyznaczona kolejką. Od tych paru minut bóle w klatce bardzo się wzmogły, czułam się źle. Pielęgniarka wzięła EKG i weszła do gabinetu. Nie minęła minuta, a doktorka z pielęgniarką wyszły razem. Od razu zaprowadziły mnie do gabinetu zabiegowego, położyły na kozetce. Lekarka poinformowała mnie że podejrzewa u mnie zawał serca i dzwoni po karetkę pogotowi, żeby przekazać mnie do dalszego leczenia do szpitala. Po 10 minutach na miejscu było pogotowie, lekarz z karetki wykonał mi EKG po chwili poinformował mnie, że mam zawał i że rozmawiał z dyżurnym kardiologiem w Zabrze z Kliniki u Religii i że niezwłocznie mnie tam wiozą celem dalszego leczenia
           text2: "Główny powód opóźniena: umówienie się z lekarzem rodzinnym, brak wezwania karetki pogotowia ."
         - name: 59-letnia kobieta
           text1: Zdarzało mi się palić ale dotychczas większych problemów z sercem nie miałam. Ostatni dzień października byłam zagoniona. Wiadomo przed 1 listopada trzeba było wszystko przygotować, odświeżyć nagrobki, kupić znicze. Przez ten cały stres i gonitwę czułam się źle. Parę razy ale nie stałe poczułam taki dyskomfort w klatce. Wszystko zwaliłam na karb tej grobowej gonitwy. Tak teraz myślę, że sama prawie wylądowałam na cmentarzu, nie wiele brakowało. No i przyszedł ten cmentarny dzień. Rano obudziłam się przeszłam parę kroków do kuchni, pojawił się dyskomfort, ale minął. W południe pojechałam na groby, było zimno ale do zniesienia. Dyskomfort nawracał, przy przejściu od grobu do grobu, było coraz gorzej. W końcu usiadłam a ból nie minął. Poprosiłam syna żeby zadzwonił na pogotowie, czułam że dzieje się ze mną coś złego. Powoli udało mi się jeszcze wyjść z cmentarza. Karetka była szybko, zabrali mnie z pod bramy. Do słownie i w przenośni. Taka granica między życiem a śmiercią. W karetce powiedzieli że mam zawał i że to był ostatni dzwonek. Jednak mimo wszystko byłam dobrej myśli. Stwierdziłam że mało kto jedzie w tą stroną z tamtąd. Więc musi być dobrze. Jakby miało być źle to zostałabym już na tym cmentarzu. Byłam w Zabrzu około godziny 17. Od momentu wezwania pogotowia nie trwało to już długo. Zabieg a później to cale leczenie. Mam nadzieje że 1 listopada za rok będę dalej tu a nie tam. ( śmiech)
           text2: Główny powód opóźnienia. Chęć zrealizowania obowiązków danego dnia w pierwszej kolejności.
-        - name: 43- letni mężczyzna
+        - name: 43-letni mężczyzna
           text1:  Od paru dni miałem infekcje, kasze , katar, gorączka. Poszedłem do swojego lekarza wypisał antybiotyk, leki przeciwgorączkowego i tak to leciało . W końcu nadeszła środa, dziwne bóle w      klatce piersiowej, nie miałem jeszcze takich. Raz się pojawiała drugi raz zanikały. Ciągnęło się to od późnego popołudnia, gdzieś około 16. Najpierw pomyślałem że to coś z płucami, ale chwile później przyszła refleksja że to może nie płuca a serca. Bo od paru dni czułem się lepiej. To skąd to nagłe pogorszenie,. Taki tępy ból trzymał mnie do 6, później lekko zelżał. O 9 kiedy znowu wrócił z podobna siła jak wcześniej spakowałem swoje rzeczy i pojechałem do szpitala do was. Już wtedy podejrzewałem że coś nie tak. Już na izbie u was dolegliwości mi się na silił. Praktycznie z marszu pojechałem na stół. Wyglądało na to że zgłosiłem się rychło w czas. Była godzina 22. 
           text2:  Opóźnienie od początku bólów do interwencji 5h. Brak znajomości objawów. Przyjechał sam do szpitala.
-        - name: 65-letni kobieta
+        - name: 65-letnia kobieta
           text1:  Pacjentka z rozpoznaną astmą przyjmująca leki wziewne.
             W dniu ślubu córki, rano poczuła się gorzej. Wystąpił ból w klatce piersiowej, duszność i drżenie mięśni. Chora uznała, że to napad astmatyczny i zażyła leki wziewne, odpoczęła chwilę, zjadła śniadanie i wydawało jej się, że jej samopoczucie poprawiło się.
             Wzięła udział w uroczystości weselnej , na Sali bawiła się jeszcze z wnukami ale czuła się coraz gorzej. Kiedy, w towarzystwie synowej wyszła na zewnątrz w celu zapalenia papierosa (!), zrobiło jej się słabo i rodzina wezwała pogotowie. Chorą przewieziono do Szpitala Miejskiego w Biskupicach a po kolejnych 3 godzinach do SCCS. W rezultacie chora wjechała na zabieg hemodynamiczny w czasie kiedy na Sali weselnej odbywały się tradycyjne oczepiny ;-)
