@@ -6,7 +6,7 @@
       
       <div class="w-80-l ph2-l">
         {{ range .texts }}
-        <p>{{.text}}</p>
+        <p>{{.text | markdownify}}</p>
         {{ end }}
       </div>
  
