@@ -2,16 +2,25 @@
   <div class="ph3 mw7 center">
     <hr>
     <h2 class="f2 b lh-title mb2 pt4">{{.heading}}</h2>
-    <div class="flex-l mhn2-l">
-      
-      <div class="w-80-l ph2-l">
-        {{ range .texts }}
-        <p>{{.text | markdownify}}</p>
-        {{ end }}
+    <div class="flex flex-column mhn2-l">
+      <div class="flex flex-row">
+        <div class="w-80-l ph2-l flex flex-column">
+          <p>{{.texts.text1 | markdownify}}</p>
+          <p>{{.texts.text2 | markdownify}}</p>
+          <p>{{.texts.text3 | markdownify}}</p>
+        </div>
+        
+        <div class="w-20-l ph2-l">
+          <img src={{.image}} alt="" class="">
+        </div>
       </div>
- 
-      <div class="w-20-l ph2-l">
-        <img src={{.image}} alt="" class="">
+        
+        <div class="flex flex-column ph2-l">
+          <p class="mw-none">{{.texts.text4}}</p>
+          <p class="mw-none">{{.texts.text5 | markdownify}}</p>
+          <p class="mw-none">{{.texts.text6}}</p>
+          <p class="mw-none">{{.texts.text7}}</p>
+          <p class="mw-none">{{.texts.text8}}</p>
       </div>
     </div>
   </div>
