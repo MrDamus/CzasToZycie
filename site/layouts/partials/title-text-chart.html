@@ -6,7 +6,9 @@
     <div class="flex-l mhn2-l ph2-l">
       <p class="mw-100">{{.text}}</p>
     </div>
+    <div>
       <svg id="svg" class="chart"></svg>
+    </div>
     <style>
         .bar {
           /* fill: #FF2C2E; */
@@ -17,7 +19,15 @@
         }
         
         .axis text {
-          font: 10px sans-serif;
+          font-size: 11px;
+          font-weight: 800;
+        }
+        
+        .bar-label {
+          font-size: 10px;
+          font-weight: 800;
+          color: rgb(253, 76, 79);
+          text-align: end;
         }
         
         .axis path,
@@ -53,7 +63,7 @@
         {
           let bar = d3.select(bars[0][i]);
         
-          const shift = 10;
+          const shift = 5;
           
           setTimeout(() => {
             i++;
@@ -88,7 +98,7 @@
         
           ///////////////////////
           // Chart Size Setup
-          var margin = { top: 35, right: 40, bottom: 30, left: 40 };
+          var margin = { top: 35, right: 0, bottom: 30, left: 0 };
 
           function parentWidth(elem) {
             return elem.parentElement.clientWidth;
@@ -96,7 +106,7 @@
           
           var parentWidth = parentWidth(document.getElementById('svg'));
 
-          var chartWidth = (parentWidth * .95) - margin.left - margin.right;
+          var chartWidth = (parentWidth * 1) - margin.left - margin.right;
           var height = 500 - margin.top - margin.bottom;
         
           var chart = d3.select(".chart")
@@ -109,7 +119,7 @@
           // Scales
           var x = d3.scale.ordinal()
               .domain(data.map(d => d['x']))
-              .rangeRoundBands([0, chartWidth], 0.1);
+              .rangeRoundBands([0, chartWidth ], 0.1);
         
           var y = d3.scale.linear()
               .domain([0, d3.max(data, d => d['y']) * 1.1])
@@ -121,21 +131,16 @@
               .scale(x)
               .orient("bottom");
         
-          var yAxis = d3.svg.axis()
-              .scale(y)
-              .orient("left");
         
           chart.append("g")
               .attr("class", "x axis")
               .attr("transform", "translate(0," + height + ")")
               .call(xAxis);
         
-          chart.append("g")
-              .attr("class", "y axis")
-              .call(yAxis);
         
           ///////////////////////
           // Bars
+
         
           var bar = chart.selectAll(".bar")
               .data(data)
@@ -146,7 +151,16 @@
               .attr("y", height)
               .attr("width", x.rangeBand())
               .attr("height", 0);
-        
+            
+          const barText = chart.selectAll(".rect")
+          .data(data).enter()
+            .append("text")
+              .attr("class", "bar-label")
+              .attr("text-anchor", "middle")
+              .attr("x", (d) => x(d.x) + x.rangeBand()/2)
+              .attr("y", (d) => y(d.y) - 10)
+              .text((d) => d.y)
+                
           bar.transition()
               .duration(1500)
               .ease("elastic")
@@ -169,7 +183,7 @@
               .on("mouseout", function(d) {
                 tooltip.style("visibility", "hidden");
               });
-            
+          
           setInterval(() => {
             if(!window.document.hidden){
               if(animationEnabled) {
