@@ -131,15 +131,22 @@ function Carousel(t) {
   this.stop = m
 }
 
+var { innerWidth } = window;
+
+var breakpoint = 960;
+
+var applyDots = innerWidth <= breakpoint;
+var applyArrows = innerWidth >= breakpoint;
+
 var carousel = new Carousel({
-  el: "carousel",  // id of the carousel container
-  infinite: true, // infinite loop
-  autoplay: true, // starts the rotation automatically
-  interval: 10000,  // interval between slide changes
-  show: 0,      // slide to start with
-  dots: false,      // show navigation dots
-  arrows: true,    // show navigation arrows
-  buttons: false,   // show play/stop buttons
+  el: "carousel",       // id of the carousel container
+  infinite: true,       // infinite loop
+  autoplay: true,       // starts the rotation automatically
+  interval: 10000,      // interval between slide changes
+  show: 0,              // slide to start with
+  dots: applyDots,      // show navigation dots
+  arrows: applyArrows,  // show navigation arrows
+  buttons: false,       // show play/stop buttons
   arrNextText: '›',
   arrPrevText: '‹'
 });
