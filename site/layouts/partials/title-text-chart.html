@@ -19,7 +19,7 @@
         }
         
         .axis text {
-          font-size: 16px;
+          font-size: .8em;
           font-weight: 400;
         }
         
@@ -52,6 +52,24 @@
           pointer-events: none;
           opacity: 0.9;
           visibility: hidden;
+        }
+
+        @media only screen and (max-width: 960px) {
+          .axis text {
+            font-size: .7em;
+          }
+          .bar-label {
+            font-size: 0.6em;
+          }
+        }
+
+        @media only screen and (max-width: 500px) {
+          .axis text {
+            font-size: .6em;
+          }
+          .bar-label {
+            font-size: 0.5em;
+          }
         }
         </style>
         
