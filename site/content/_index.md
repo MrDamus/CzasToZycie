@@ -61,13 +61,6 @@ objawy:
     text10: "**Zapamiętaj**"
     text11: Osoby, które już przebyły zawał, często z powodu odmiennych objawów nie rozpoznają kolejnego. Każdy zawał może mieć inne objawy. 
 
-
-
-przyczyny:
-    heading: Przyczyny zawału serca
-    text1: "Przyczyny zawału są takie same, jak przyczyny rozwoju choroby wieńcowej. Określane są one czynnikami ryzyka miażdżycy lub czynnikami ryzyka chorób sercowo-naczyniowych (zobacz: "
-    text2: "Czynniki ryzyka choroby wieńcowej"
-
 stats:
     heading: Statystyki
     text: "Rocznie w Polsce na zawał serca umiera blisko 200 000 osób. Według Głównego Urzędu Statystycznego z 2009 roku zawału serca doświadczyło kiedykolwiek w swoim życiu 3,3% Polaków, w tym 4,1% mężczyzn i 2,5% kobiet. Ryzyko wystąpienia zawału zwiększa się znacznie z wiekiem, np. zawał serca przebyło w przeszłości aż 14% osób w wieku 70–79 lat."
