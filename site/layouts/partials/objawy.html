@@ -1,3 +1,15 @@
+<style>
+	@media screen and (max-width: 960px) {
+    #imgWrapper {
+      display: flex;
+      justify-content: center;
+    }
+    p {
+        max-width: none;
+    }
+  }
+</style>
+
 <div class="pv4">
   <div class="ph3 mw7 center">
     
@@ -5,11 +17,11 @@
     <h2 class="f2 b lh-title mb2 pt4">{{.heading1}}</h2>
     <div class="flex-l mhn2-l">
       
-      <div class="w-20-l ph2-l">
+      <div id="imgWrapper" class="w-20-l ph2-l">
         <img src={{.image1}} alt="" class="">
       </div>
       
-      <div class="w-80-l ph2-l">
+      <div id="pWrapper" class="w-80-l ph2-l">
         <p>{{.text1}}</p>
         <p>{{.text2}}</p>
         <p>{{.text3}}</p>
