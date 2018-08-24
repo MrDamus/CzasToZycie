@@ -62,13 +62,48 @@
             font-size: 0.6em;
           }
         }
+        @media only screen and (max-width: 768px) {
+          .axis text {
+            font-size: .7em;
+          }
+          .bar-label {
+            font-size: 0.7em;
+          }
+        }
+
+        @media only screen and (max-width: 570px) {
+          .axis text {
+            font-size: .6em;
+          }
+          .bar-label {
+            font-size: 0.6em;
+          }
+        }
 
         @media only screen and (max-width: 500px) {
           .axis text {
             font-size: .6em;
           }
           .bar-label {
-            font-size: 0.5em;
+            font-size: 0.55em;
+          }
+        }
+
+        @media only screen and (max-width: 470px) {
+          .axis text {
+            font-size: .525em;
+          }
+          .bar-label {
+            font-size: 0.475em;
+          }
+        }
+
+        @media only screen and (max-width: 400px) {
+          .axis text {
+            font-size: .475em;
+          }
+          .bar-label {
+            font-size: 0.425em;
           }
         }
         </style>
@@ -104,12 +139,31 @@
             .attr("y",d => y(d['y']))
             .attr("height", d => height - y(d['y']))
             .attr("fill", '#FF2C2E')
+}
+
+
+          function changeChartHeight(mobileBreakpoint) {
+          if (mobileBreakpoint.matches) { // If media query matches
+              console.log(height)
+              var lowerBar = height*.5;
+              var chart = d3.select(".chart")
+              .attr("height", lowerBar)
+          } else {  
+            var chart = d3.select(".chart")
+            .attr("height", windowHeight)
+          }
+          
+          var mobileBreakpoint = window.matchMedia("(max-width: 500px)")
+          changeChartHeight(mobileBreakpoint) // Call listener function at run time
+          mobileBreakpoint.addListener(changeChartHeight) // Attach listener function on state changes
         }
+
         
         
         const animateChart = (bar, y, height) => {
           animateBar(bar, y, height)
         }
+
         ///////////////////////
         // Parse the Data
         d3.csv("data.csv", data => {
@@ -121,7 +175,7 @@
           function parentWidth(elem) {
             return elem.parentElement.clientWidth;
           }
-          
+
           var parentWidth = parentWidth(document.getElementById('svg'));
           var windowHeight = window.innerHeight *.5
 
@@ -133,7 +187,7 @@
               .attr("height", windowHeight)
             .append("g")
               .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-        
+
           ///////////////////////
           // Scales
           var x = d3.scale.ordinal()
