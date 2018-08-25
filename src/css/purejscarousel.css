@@ -1,6 +1,6 @@
 .b-carousel {
   height: auto;
-  margin: 0 auto 2em;
+  margin: 0 auto;
   position: relative;
   max-width: 960px;
   width: 100%;
@@ -85,7 +85,6 @@
   float: left;
   transition: margin-left .25s linear;
   width: 960px;
-  padding: 40px;
 }
 
 .b-carousel__items li img {
