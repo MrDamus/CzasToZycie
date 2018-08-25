@@ -1,3 +1,14 @@
+<style>
+    @media screen and (max-width: 960px) {
+      .imgDisplayLarge {
+        display: none;
+      }
+    }
+    p{
+      max-width: none;
+    }
+  </style>
+
 <div id="abc" class="pv4">
   <div class="ph3 mw7 center">
     
@@ -7,13 +18,16 @@
       
       <div class="w-80-l ph2-l">
         <p>{{.text1}}</p>
-        <p>{{.text2}}</p>
-        <p>{{.text3}}</p>
       </div>
- 
+      
       <div class="w-20-l ph2-l">
-        <img src={{.image}} alt="" class="">
+        <img src={{.image}} alt="" class="imgDisplayLarge">
       </div>
+    </div>
+    <div class="ph2-l">
+
+      <p class="mw-none">{{.text2}}</p>
+      <p class="mw-none">{{.text3}}</p>
     </div>
  
   </div>
