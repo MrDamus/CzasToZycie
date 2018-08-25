@@ -25,7 +25,6 @@
         
         .bar-label {
           font-size: 0.7em;
-          font-weight: 800;
           color: rgb(0, 0, 0);
           text-align: end;
         }
@@ -106,7 +105,14 @@
             font-size: 0.425em;
           }
         }
-        </style>
+        @media only screen and (max-width: 340px) {
+          .axis text {
+            font-size: .4em;
+          }
+          .bar-label {
+            font-size: 0.4em;
+          }
+        }        </style>
         
         <script src="//d3js.org/d3.v3.min.js"></script>
         <script>
@@ -177,7 +183,8 @@
           }
 
           var parentWidth = parentWidth(document.getElementById('svg'));
-          var windowHeight = window.innerHeight *.5
+          var windowHeight = window.innerWidth * .5
+          console.log(window.innerWidth < 500, windowHeight)
 
           var chartWidth = (parentWidth * 1) - margin.left - margin.right;
           var height = windowHeight - margin.top - margin.bottom;
