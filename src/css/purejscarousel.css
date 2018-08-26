@@ -138,7 +138,6 @@
 
 .b-carousel__nav-dots li.active {
   background: #ff2c2e;
-  box-shadow: 0 0 3px 3px #ff2c2e
 }
 
 .b-carousel__nav-dots li:hover {
