@@ -150,7 +150,6 @@
 
           function changeChartHeight(mobileBreakpoint) {
           if (mobileBreakpoint.matches) { // If media query matches
-              console.log(height)
               var lowerBar = height*.5;
               var chart = d3.select(".chart")
               .attr("height", lowerBar)
@@ -183,9 +182,8 @@
           }
 
           var parentWidth = parentWidth(document.getElementById('svg'));
-          var windowHeight = window.innerWidth * .5
-          console.log(window.innerWidth < 500, windowHeight)
-
+          var windowHeight = Math.min(window.innerWidth * .5, 500)
+          console.log(windowHeight, window.innerWidth * .5 )
           var chartWidth = (parentWidth * 1) - margin.left - margin.right;
           var height = windowHeight - margin.top - margin.bottom;
         
