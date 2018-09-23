@@ -67,7 +67,7 @@ stats:
 
 postepowanie:
     heading: Postępowanie w przypadku zawału
-    image: http://via.placeholder.com/400x400
+    image: /img/red-stethoscope.jpg
     texts:
         text1: Czujesz silny ból w klatce piersiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!
         text2: "Mając objawy typowe dla zawału serca, zadzwoń pod **112** nawet wówczas, gdy nie jesteś pewien, czy to zawał. Czas rozpoczęcia leczenia ma kluczowe znaczenie, a każda minuta wahania zwiększa ryzyko zgonu lub poważnych konsekwencji zdrowotnych. Pamiętaj: Każde 10 minut opóźnienia interwencji lekarza w przypadku zawału zabiera bezpowrotnie twoje zdrowie i życie!"
