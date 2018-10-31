@@ -5,7 +5,11 @@ image: /img/heart-attack.jpg
 oKampanii:
     heading: O Kampanii
     image: /img/serce.gif
-    text: "„Zawał serca – czas to życie” – to ogólnopolska kampania społeczna, której organizatorem są Śląskie Centrum Chorób Serca w Zabrzu oraz Fundacja Śląskiego Centrum Chorób Serca w Zabrzu. Celem kampanii jest edukacja dotycząca właściwego postępowania w przypadku pierwszych oznak zawału serca, bo chociaż polscy lekarze potrafią skutecznie leczyć zawał, to wciąż prawie co trzeci pacjent umiera tylko dlatego, że zwleka z zadzwonieniem po karetkę. Późna reakcja na zwał znacząco wypływa także na jakość życia pacjenta po zawale. Honorowy patronat nad Kampanią „Zawał serca - czas to życie” objęła Małżonka Prezydenta Rzeczypospolitej Polskiej Agata Kornhauser-Duda zaś Minister Zdrowia objął patronat merytoryczny nad kampanią. Partnerem strategicznym jest Philips."
+    subheading: Kampania „Zawał serca – Czas to Życie” uświadamia, jak postępować w przypadku zawału serca. Kluczowy jest czas oraz wezwanie pogotowia.
+    text: 
+        - p: "Co roku, do szpitala trafia prawie 80 tys. Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
+        - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS „Zawał serca – Czas to Życie”, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
+    w przypadku zawału. Honorowy patronat nad kampanią objęła Małżonka Prezydenta RP, Agata Kornhauser-Duda, a członkiem Komitetu Honorowego jest Minister Zdrowia Prof. Łukasz Szumowski."
 
 quotes:
     - image: http://via.placeholder.com/300x300
