@@ -51,11 +51,9 @@ abc:
 objawy:
     heading1: Najczęstsze objawy zawału serca
     image1: /img/7.png
-    text1: "Najczęstsze objawy zawału serca to ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem. Występują one u większości chorych z zawałem."
-
-    text2: "Ból zgłaszany przez chorego ma charakter rozlany (patrz: ryc. 3.), a nie punktowy, tzn. nie można wskazać miejsca bólu jednym palcem. Dlatego pacjent z zawałem serca zazwyczaj wskazuje miejsce bólu, przykładając całą pięść do mostka."
-
-    text3: "Ból trwa zwykle ponad 20 minut; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. U osób w starszym wieku lub chorujących na cukrzycę ból w trakcie zawału może być mniej charakterystyczny albo (rzadko) nie występuje wcale. Wówczas zawał objawia się np. w postaci zasłabnięcia lub duszności."
+    text1: "Ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej – ma charakter rozlany, a nie punktowy; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. Bólowi może towarzyszyć silny lęk."
+    text2: "Ból może promieniować do barku, ręki, szyi lub żuchwy."
+    text3: "U starszych osób lub chorujących na cukrzycę – ból może być mniej nasilony lub mniej charakterystyczny albo występować rzadziej."
 
     heading2: Co powinno zwrócić Twoją uwagę?
     image2: /img/1.png
@@ -70,8 +68,7 @@ objawy:
     text8: obfite zimne poty i zawroty głowy
     image7: /img/6.png
     text9: lęk przed zbliżającą się śmiercią
-    text10: "**Zapamiętaj**"
-    text11: Osoby, które już przebyły zawał, często z powodu odmiennych objawów nie rozpoznają kolejnego. Każdy zawał może mieć inne objawy. 
+    text10: Pamietaj! Kazdy zawal moze miec inne objawy. Nawet u tej samej osoby, objawy kolejnego zawalu moga byc rozne.
 
 
 postepowanie:
