@@ -39,13 +39,14 @@ z brakiem dopływu krwi, a tym samym tlenu do mięśnia sercowego, obumiera „z
         - p: "Tymczasem wiele osób zwleka z podjęciem właściwych działań. W kampanii poznajemy historie pacjentów, dla których codzienne obowiązki, różne obawy oraz przypisywanie złego samopoczucia innym powodom wpłynęło na wielogodzinne opóźnienie w uzyskaniu pomocy. Osoby te, zamiast wezwania karetki, podejmowały próby konsultacji ich samopoczucia z rodziną, umówienia wizyty do lekarza pierwszego kontaktu lub samodzielnie jechali na pogotowie, co opóźniało otrzymanie specjalistycznej pomocy i mogło stanowić dodatkowe zagrożenie dla ich stanu zdrowia, a nawet życia."
     description: Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL.
 abc:
-    heading: ABC zawału
+    heading: Co Polacy wiedzą o zawale serca?
+    subheading: Polacy nie wiedzą, jak postępować podczas zawału serca!
     image: /img/red-stethoscope.jpg
-    text1: "Zawał serca oznacza martwicę wywołaną niedokrwieniem. Następuje on w momencie zamknięcia naczynia krwionośnego w sercu, co zwykle jest skutkiem pęknięcia blaszki miażdżycowej w naczyniu wieńcowym, czyli naczyniu doprowadzającym krew do serca. W związku brakiem dopływ krwi, a tym samym tlenu do mięśnia sercowego, obumiera odcięty fragmen serca."
+    text1: "Większość z nas prawidłowo wiąże ból w klatce piersiowej z zawałem lub inną chorobą serca. Ale tylko co czwarta osoba w przypadku pojawienia się takiego objawu zareagowałaby natychmiast – wynika z najnowszych badań SW Research.6 Tymczasem czas w zawale jest kwestią kluczową: im szybciej uzyskamy profesjonalną pomoc, tym większe szanse na przeżycie i lepsze wyniki leczenia."
 
-    text2: "Im dłużej tętnica (naczynie wieńcowe) jest zamknięta, tym większy obszar serca umiera. Szybkie rozpoczęcie leczenia mającego na celu otwarcie tętnicy zwiększa szansę na uratowanie mięśnia sercowego. Ilość czasu na interwencję jest jednak ograniczony. Zwykle po 3–6 godzinach umiera cały obszar mięśnia sercowego zaopatrywany przez zamkniętą tętnicę wieńcową i wówczas zmiany te są nieodwracalne, nawet przy zastosowaniu nowoczesnych metod leczenia."
+    text2: "Najczęstszymi objawami zawału serca są ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej. Występują one u większości chorych. Dobra wiadomość jest taka, że 74 proc. Polaków wie, że ból w klatce może oznaczać zawał lub inne problemy z sercem. Niestety, dużo gorzej jest z wiedzą, jak w tej sytuacji się zachować. Tylko 22,2 proc. osób czując ból w klatce zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałoby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5 proc.) nawet do następnego dnia. A przecież – jak podkreślają lekarze – od momentu zawału serca pomoc powinna być udzielona jak najszybciej, a od chwili rozpoznania zawału do zastosowania skutecznego leczenia nie powinno upłynąć więcej niż 60 – 90 min.7 W przeciwnym razie może dojść do zgonu lub poważnych powikłań, np. niewydolności serca. Te mało optymistyczne wnioski płyną z badania pt. „Zawał serca – Opinie Polaków” przeprowadzonego we wrześniu 2018 roku przez SW Research na grupie 1376 osób6 w ramach kampanii „Zawał serca – Czas to Życie”."
 
-    text3: "Czasem do zawału serca dochodzi w wyniku pęknięcia blaszki miażdżycowej. Zdarza się, że rosnąca przez długi czas blaszka miażdżycowa, doprowadza do dużego zwężenia naczynia, co znacznie ogranicza dopływ krwi do fragmentu serca, a tym samym zaopatrywania w tlen."
+    text3: "Czujesz silny bol w klatce piersiowej nie zwlekaj!"
 
 objawy:
     heading1: Najczęstsze objawy zawału serca
