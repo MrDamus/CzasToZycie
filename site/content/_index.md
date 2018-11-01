@@ -9,20 +9,19 @@ oKampanii:
     text: 
         - p: "Co roku, do szpitala trafia prawie 80 tys. Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
         - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS „Zawał serca – Czas to Życie”, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
-    w przypadku zawału. Honorowy patronat nad kampanią objęła Małżonka Prezydenta RP, Agata Kornhauser-Duda, a członkiem Komitetu Honorowego jest Minister Zdrowia Prof. Łukasz Szumowski."
-
-quotes:
-    - image: http://via.placeholder.com/300x300
-      quote: Wielu z nas uważa, że zawał serca ich nie dotyczy i nawet gdy objawy wskazują na początek zawału, zwlekają z reakcją tak długo jak to tylko możliwe. Czasem kilka, kilkanaście, a czasem nawet kilkadziesiąt godzin. Tymczasem w przypadku zawału serca reakcja musi być natychmiastowa, bo im szybciej chory trafi w ręce specjalistów, tym większe są jego szanse na przeżycie, a także na normalne życie po zawale.
-      author: "prof. Marian Zembala"
-      text1: Dlatego tak ważny jest kontakt z numerem alarmowym **112** już w momencie, gdy zaobserwujemy u siebie lub u kogoś w najbliższym otoczeniu objawy zawału serca i wezwanie karetki pogotowia. To najskuteczniejszy środek ratujący serce!
-      text2: "Co roku w Polsce około 100 tysięcy kobiet i mężczyzn w różnym wieku, dostaje zawału serca. Polscy lekarze potrafią skutecznie leczyć zawał, jednak co trzecia z tych osób umiera, bo zbyt późno zadzwoniła po karetkę."
-
-    - image: http://via.placeholder.com/300x300
-      quote: Niewielu z nas zdaje sobie sprawę, że już od pierwszych minut zawału w sercu powstają nieodwracalne zmiany, które postępują z upływem czasu. Będą one mieć znaczący wpływ na jakość życia chorego po zawale.
-      author: "prof. Marian Zembala"
-      text1: "Niestety średnio od pierwszych objawów zawału serca tj. bólu w klatce piersiowej, do udzielenia pacjentowi pierwszej pomocy mijają w Polsce około 2 i pół godziny."
-      text2: "Czas w jakim zostanie udzielona pomoc pacjentowi z zawałem serca – zależy także od Ciebie! Dlatego jeśli czujesz ból w klatce piersiiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!"
+        w przypadku zawału. Honorowy patronat nad kampanią objęła Małżonka Prezydenta RP, Agata Kornhauser-Duda, a członkiem Komitetu Honorowego jest Minister Zdrowia Prof. Łukasz Szumowski."
+    subsections: 
+        - heading: Postęp w leczeniu zawałów serca w Polsce
+        - text:
+            - p: "W ciągu ostatniej dekady odnotowano znaczący postęp leczenia zawału serca w Polsce poprzez szerokie wprowadzenie tzw. interwencyjnych metod leczenia. Ponadto, Polska znajduje się w ścisłej czołówce w Europie pod względem liczby zabiegów angioplastyki tj. przezskórnego poszerzenia naczyń krwionośnych, które zostały zwężone lub zamknięte w wyniku choroby - najczęściej miażdżycy. Pozwoliło to znacznie obniżyć śmiertelność pacjentów z zawałem serca do około 18%.³,⁴ Nadal jednak istnieje konieczność zmiany zachowań, które poprawią rokowania pacjentów. Obszarem, który wymaga szczególnej uwagi są tzw. opóźnienia przedszpitalne."
+        - heading: Zawał serca i statystyki
+        - text:
+            - p: "Każde 30 minut opóźnienia w udrożnieniu zamkniętej tętnicy wieńcowej zwiększa ryzyko śmierci o 7,5 proc.⁵ U połowy Polaków z zawałem serca, czas od pierwszych objawów do udzielenia profesjonalnej pomocy w ośrodku kardiologii interwencyjnej wynosi prawie 4 i pól godziny.⁴ Od 2005 roku pomimo znaczącego zwiększenia liczby ośrodków kardiologii interwencyjnej w Polsce, czas ten uległ redukcji zaledwie o około 15 proc.⁴"
+            - p: "Jak wynika z badań przeprowadzonych przez SW Research, aż 73,8 proc. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, niestety tylko 22,2 proc. badanych czując ból zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby 
+            z wezwaniem pomocy – co piąty respondent (18,5 proc.) czekałby nawet do następnego dnia."
+            - p: "To pokazuje, jak istotne jest budowanie społecznej świadomości problemu i edukacja 
+             w zakresie właściwej reakcji na zagrożenie związane z zawałem serca. "
+            - p: "Partnerem strategiczny kampanii „Zawał serca – Czas to Życie” jest Philips."
 
 letter:
     image: /img/prezydentowa.png

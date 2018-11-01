@@ -1,7 +1,7 @@
   <div class="ph3 mw7 center">
     
     <h2 class="f2 b lh-title mb2 pt4">{{.heading}}</h2>
-    <h6 class="f4 b lh-title mb2 pt4 ph2-l">{{.subheading}}</h6>
+    <h6 class="f5 b lh-title mb2 pt4 ph2-l">{{.subheading}}</h6>
     <div class="flex-l mhn2-l">
       <div class="w-80-l ph2-l">
         {{ range .text }}
@@ -12,5 +12,12 @@
         <img src={{.image}} alt="" class="mb3 imgDisplayLarge">
       </div>
     </div>
- 
+    <div class="ph2-l">
+    {{ range .subsections }}
+    <h4 class="f4 b lh-title pt3" >{{.heading}}</h4>
+      {{ range .text }}
+      <p>{{.p}}</p>
+      {{ end }}
+    {{ end }}
+  </div>
   </div>
