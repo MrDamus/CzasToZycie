@@ -42,20 +42,18 @@ abc:
     heading: Co Polacy wiedzą o zawale serca?
     subheading: Polacy nie wiedzą, jak postępować podczas zawału serca!
     image: /img/red-stethoscope.jpg
-    text1: "Większość z nas prawidłowo wiąże ból w klatce piersiowej z zawałem lub inną chorobą serca. Ale tylko co czwarta osoba w przypadku pojawienia się takiego objawu zareagowałaby natychmiast – wynika z najnowszych badań SW Research.6 Tymczasem czas w zawale jest kwestią kluczową: im szybciej uzyskamy profesjonalną pomoc, tym większe szanse na przeżycie i lepsze wyniki leczenia."
+    text1: "Większość z nas prawidłowo wiąże ból w klatce piersiowej z zawałem lub inną chorobą serca. Ale tylko co czwarta osoba w przypadku pojawienia się takiego objawu zareagowałaby natychmiast – wynika z najnowszych badań SW Research.⁶ Tymczasem czas w zawale jest kwestią kluczową: im szybciej uzyskamy profesjonalną pomoc, tym większe szanse na przeżycie i lepsze wyniki leczenia."
 
-    text2: "Najczęstszymi objawami zawału serca są ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej. Występują one u większości chorych. Dobra wiadomość jest taka, że 74 proc. Polaków wie, że ból w klatce może oznaczać zawał lub inne problemy z sercem. Niestety, dużo gorzej jest z wiedzą, jak w tej sytuacji się zachować. Tylko 22,2 proc. osób czując ból w klatce zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałoby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5 proc.) nawet do następnego dnia. A przecież – jak podkreślają lekarze – od momentu zawału serca pomoc powinna być udzielona jak najszybciej, a od chwili rozpoznania zawału do zastosowania skutecznego leczenia nie powinno upłynąć więcej niż 60 – 90 min.7 W przeciwnym razie może dojść do zgonu lub poważnych powikłań, np. niewydolności serca. Te mało optymistyczne wnioski płyną z badania pt. „Zawał serca – Opinie Polaków” przeprowadzonego we wrześniu 2018 roku przez SW Research na grupie 1376 osób6 w ramach kampanii „Zawał serca – Czas to Życie”."
+    text2: "Najczęstszymi objawami zawału serca są ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej. Występują one u większości chorych. Dobra wiadomość jest taka, że 74 proc. Polaków wie, że ból w klatce może oznaczać zawał lub inne problemy z sercem. Niestety, dużo gorzej jest z wiedzą, jak w tej sytuacji się zachować. Tylko 22,2 proc. osób czując ból w klatce zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałoby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5 proc.) nawet do następnego dnia. A przecież – jak podkreślają lekarze – od momentu zawału serca pomoc powinna być udzielona jak najszybciej, a od chwili rozpoznania zawału do zastosowania skutecznego leczenia nie powinno upłynąć więcej niż 60 – 90 min.⁷ W przeciwnym razie może dojść do zgonu lub poważnych powikłań, np. niewydolności serca. Te mało optymistyczne wnioski płyną z badania pt. „Zawał serca – Opinie Polaków” przeprowadzonego we wrześniu 2018 roku przez SW Research na grupie 1376 osób6 w ramach kampanii „Zawał serca – Czas to Życie”."
 
     text3: "Czujesz silny bol w klatce piersiowej nie zwlekaj!"
 
 objawy:
     heading1: Najczęstsze objawy zawału serca
     image1: /img/7.png
-    text1: "Najczęstsze objawy zawału serca to ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem. Występują one u większości chorych z zawałem."
-
-    text2: "Ból zgłaszany przez chorego ma charakter rozlany (patrz: ryc. 3.), a nie punktowy, tzn. nie można wskazać miejsca bólu jednym palcem. Dlatego pacjent z zawałem serca zazwyczaj wskazuje miejsce bólu, przykładając całą pięść do mostka."
-
-    text3: "Ból trwa zwykle ponad 20 minut; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. U osób w starszym wieku lub chorujących na cukrzycę ból w trakcie zawału może być mniej charakterystyczny albo (rzadko) nie występuje wcale. Wówczas zawał objawia się np. w postaci zasłabnięcia lub duszności."
+    text1: "Ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej – ma charakter rozlany, a nie punktowy; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. Bólowi może towarzyszyć silny lęk."
+    text2: "Ból może promieniować do barku, ręki, szyi lub żuchwy."
+    text3: "U starszych osób lub chorujących na cukrzycę – ból może być mniej nasilony lub mniej charakterystyczny albo występować rzadziej."
 
     heading2: Co powinno zwrócić Twoją uwagę?
     image2: /img/1.png
@@ -70,8 +68,7 @@ objawy:
     text8: obfite zimne poty i zawroty głowy
     image7: /img/6.png
     text9: lęk przed zbliżającą się śmiercią
-    text10: "**Zapamiętaj**"
-    text11: Osoby, które już przebyły zawał, często z powodu odmiennych objawów nie rozpoznają kolejnego. Każdy zawał może mieć inne objawy. 
+    text10: Pamietaj! Kazdy zawal moze miec inne objawy. Nawet u tej samej osoby, objawy kolejnego zawalu moga byc rozne.
 
 
 postepowanie:
