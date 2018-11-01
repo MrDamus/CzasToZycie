@@ -30,6 +30,14 @@ letter:
     quote2: "Dlatego warto wsłuchiwać się w głos pracujących tam specjalistów, kiedy mówią o potrzebie edukacji społecznej w zakresie objawów zawału serca i czynników ryzyka jego wystąpienia, a także metod leczenia i stosowania profilaktyki zawałowej.
     Wszystkim nam zależy na tym, by jak najwięcej osób dotkniętych schorzeniami sercowo-naczyniowymi, a przede wszystkim zawałem serca, otrzymało na czas skuteczną pomoc. W związku z tym odczuwamy potrzebę podejmowania inicjatyw promujących zachowania, które skracają czas oczekiwania na udzielenie tej pomocy. Uczmy się więc stale, jak rozpoznawać niepokojące symptomy. Poznajmy podstawowe czynności, które możemy sami wykonać, by uratować komuś życie przed przybyciem pomocy medycznej. Naprawdę bardzo dużo zależy od nas samych, naszej odpowiedzialności, a przede wszystkim wiedzy i szybkiego działania. Pamiętajmy, że serce mamy tylko jedno. Dbajmy o nie. Namawiajmy też innych do prowadzenia zdrowego trybu życia i poddawania się okresowym badaniom kardiologicznym. Gorąco państwa do tego namawiam.\""
     title2: "Materiały do pobrania"
+stats:
+    heading: Zawał serca - czyli kiedy serce umiera
+    text:
+        - p: "Zawał serca to stopniowe obumieranie mięśnia sercowego (tzw. martwica) wywołane niedrożnością naczynia lub naczyń krwionośnych, które się w nim znajdują. W związku 
+z brakiem dopływu krwi, a tym samym tlenu do mięśnia sercowego, obumiera „zajęty” fragment serca. Martwica powiększa się z każdą minutą trwania zawału."
+        - p: Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.
+        - p: "Tymczasem wiele osób zwleka z podjęciem właściwych działań. W kampanii poznajemy historie pacjentów, dla których codzienne obowiązki, różne obawy oraz przypisywanie złego samopoczucia innym powodom wpłynęło na wielogodzinne opóźnienie w uzyskaniu pomocy. Osoby te, zamiast wezwania karetki, podejmowały próby konsultacji ich samopoczucia z rodziną, umówienia wizyty do lekarza pierwszego kontaktu lub samodzielnie jechali na pogotowie, co opóźniało otrzymanie specjalistycznej pomocy i mogło stanowić dodatkowe zagrożenie dla ich stanu zdrowia, a nawet życia."
+    description: Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL.
 abc:
     heading: ABC zawału
     image: /img/red-stethoscope.jpg
@@ -64,9 +72,6 @@ objawy:
     text10: "**Zapamiętaj**"
     text11: Osoby, które już przebyły zawał, często z powodu odmiennych objawów nie rozpoznają kolejnego. Każdy zawał może mieć inne objawy. 
 
-stats:
-    heading: Statystyki
-    text: "Rocznie w Polsce na zawał serca umiera blisko 200 000 osób. Według Głównego Urzędu Statystycznego z 2009 roku zawału serca doświadczyło kiedykolwiek w swoim życiu 3,3% Polaków, w tym 4,1% mężczyzn i 2,5% kobiet. Ryzyko wystąpienia zawału zwiększa się znacznie z wiekiem, np. zawał serca przebyło w przeszłości aż 14% osób w wieku 70–79 lat."
 
 postepowanie:
     heading: Postępowanie w przypadku zawału
