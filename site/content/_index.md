@@ -5,20 +5,23 @@ image: /img/heart-attack.jpg
 oKampanii:
     heading: O Kampanii
     image: /img/serce.gif
-    text: "„Zawał serca – czas to życie” – to ogólnopolska kampania społeczna, której organizatorem są Śląskie Centrum Chorób Serca w Zabrzu oraz Fundacja Śląskiego Centrum Chorób Serca w Zabrzu. Celem kampanii jest edukacja dotycząca właściwego postępowania w przypadku pierwszych oznak zawału serca, bo chociaż polscy lekarze potrafią skutecznie leczyć zawał, to wciąż prawie co trzeci pacjent umiera tylko dlatego, że zwleka z zadzwonieniem po karetkę. Późna reakcja na zwał znacząco wypływa także na jakość życia pacjenta po zawale. Honorowy patronat nad Kampanią „Zawał serca - czas to życie” objęła Małżonka Prezydenta Rzeczypospolitej Polskiej Agata Kornhauser-Duda zaś Minister Zdrowia objął patronat merytoryczny nad kampanią. Partnerem strategicznym jest Philips."
-
-quotes:
-    - image: http://via.placeholder.com/300x300
-      quote: Wielu z nas uważa, że zawał serca ich nie dotyczy i nawet gdy objawy wskazują na początek zawału, zwlekają z reakcją tak długo jak to tylko możliwe. Czasem kilka, kilkanaście, a czasem nawet kilkadziesiąt godzin. Tymczasem w przypadku zawału serca reakcja musi być natychmiastowa, bo im szybciej chory trafi w ręce specjalistów, tym większe są jego szanse na przeżycie, a także na normalne życie po zawale.
-      author: "prof. Marian Zembala"
-      text1: Dlatego tak ważny jest kontakt z numerem alarmowym **112** już w momencie, gdy zaobserwujemy u siebie lub u kogoś w najbliższym otoczeniu objawy zawału serca i wezwanie karetki pogotowia. To najskuteczniejszy środek ratujący serce!
-      text2: "Co roku w Polsce około 100 tysięcy kobiet i mężczyzn w różnym wieku, dostaje zawału serca. Polscy lekarze potrafią skutecznie leczyć zawał, jednak co trzecia z tych osób umiera, bo zbyt późno zadzwoniła po karetkę."
-
-    - image: http://via.placeholder.com/300x300
-      quote: Niewielu z nas zdaje sobie sprawę, że już od pierwszych minut zawału w sercu powstają nieodwracalne zmiany, które postępują z upływem czasu. Będą one mieć znaczący wpływ na jakość życia chorego po zawale.
-      author: "prof. Marian Zembala"
-      text1: "Niestety średnio od pierwszych objawów zawału serca tj. bólu w klatce piersiowej, do udzielenia pacjentowi pierwszej pomocy mijają w Polsce około 2 i pół godziny."
-      text2: "Czas w jakim zostanie udzielona pomoc pacjentowi z zawałem serca – zależy także od Ciebie! Dlatego jeśli czujesz ból w klatce piersiiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!"
+    subheading: Kampania „Zawał serca – Czas to Życie” uświadamia, jak postępować w przypadku zawału serca. Kluczowy jest czas oraz wezwanie pogotowia.
+    text: 
+        - p: "Co roku, do szpitala trafia prawie 80 tys. Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
+        - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS „Zawał serca – Czas to Życie”, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
+        w przypadku zawału. Honorowy patronat nad kampanią objęła Małżonka Prezydenta RP, Agata Kornhauser-Duda, a członkiem Komitetu Honorowego jest Minister Zdrowia Prof. Łukasz Szumowski."
+    subsections: 
+        - heading: Postęp w leczeniu zawałów serca w Polsce
+        - text:
+            - p: "W ciągu ostatniej dekady odnotowano znaczący postęp leczenia zawału serca w Polsce poprzez szerokie wprowadzenie tzw. interwencyjnych metod leczenia. Ponadto, Polska znajduje się w ścisłej czołówce w Europie pod względem liczby zabiegów angioplastyki tj. przezskórnego poszerzenia naczyń krwionośnych, które zostały zwężone lub zamknięte w wyniku choroby - najczęściej miażdżycy. Pozwoliło to znacznie obniżyć śmiertelność pacjentów z zawałem serca do około 18%.³,⁴ Nadal jednak istnieje konieczność zmiany zachowań, które poprawią rokowania pacjentów. Obszarem, który wymaga szczególnej uwagi są tzw. opóźnienia przedszpitalne."
+        - heading: Zawał serca i statystyki
+        - text:
+            - p: "Każde 30 minut opóźnienia w udrożnieniu zamkniętej tętnicy wieńcowej zwiększa ryzyko śmierci o 7,5 proc.⁵ U połowy Polaków z zawałem serca, czas od pierwszych objawów do udzielenia profesjonalnej pomocy w ośrodku kardiologii interwencyjnej wynosi prawie 4 i pól godziny.⁴ Od 2005 roku pomimo znaczącego zwiększenia liczby ośrodków kardiologii interwencyjnej w Polsce, czas ten uległ redukcji zaledwie o około 15 proc.⁴"
+            - p: "Jak wynika z badań przeprowadzonych przez SW Research, aż 73,8 proc. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, niestety tylko 22,2 proc. badanych czując ból zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby 
+            z wezwaniem pomocy – co piąty respondent (18,5 proc.) czekałby nawet do następnego dnia."
+            - p: "To pokazuje, jak istotne jest budowanie społecznej świadomości problemu i edukacja 
+             w zakresie właściwej reakcji na zagrożenie związane z zawałem serca. "
+            - p: "Partnerem strategiczny kampanii „Zawał serca – Czas to Życie” jest Philips."
 
 letter:
     image: /img/prezydentowa.png
@@ -27,14 +30,23 @@ letter:
     quote2: "Dlatego warto wsłuchiwać się w głos pracujących tam specjalistów, kiedy mówią o potrzebie edukacji społecznej w zakresie objawów zawału serca i czynników ryzyka jego wystąpienia, a także metod leczenia i stosowania profilaktyki zawałowej.
     Wszystkim nam zależy na tym, by jak najwięcej osób dotkniętych schorzeniami sercowo-naczyniowymi, a przede wszystkim zawałem serca, otrzymało na czas skuteczną pomoc. W związku z tym odczuwamy potrzebę podejmowania inicjatyw promujących zachowania, które skracają czas oczekiwania na udzielenie tej pomocy. Uczmy się więc stale, jak rozpoznawać niepokojące symptomy. Poznajmy podstawowe czynności, które możemy sami wykonać, by uratować komuś życie przed przybyciem pomocy medycznej. Naprawdę bardzo dużo zależy od nas samych, naszej odpowiedzialności, a przede wszystkim wiedzy i szybkiego działania. Pamiętajmy, że serce mamy tylko jedno. Dbajmy o nie. Namawiajmy też innych do prowadzenia zdrowego trybu życia i poddawania się okresowym badaniom kardiologicznym. Gorąco państwa do tego namawiam.\""
     title2: "Materiały do pobrania"
+stats:
+    heading: Zawał serca - czyli kiedy serce umiera
+    text:
+        - p: "Zawał serca to stopniowe obumieranie mięśnia sercowego (tzw. martwica) wywołane niedrożnością naczynia lub naczyń krwionośnych, które się w nim znajdują. W związku 
+z brakiem dopływu krwi, a tym samym tlenu do mięśnia sercowego, obumiera „zajęty” fragment serca. Martwica powiększa się z każdą minutą trwania zawału."
+        - p: Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.
+        - p: "Tymczasem wiele osób zwleka z podjęciem właściwych działań. W kampanii poznajemy historie pacjentów, dla których codzienne obowiązki, różne obawy oraz przypisywanie złego samopoczucia innym powodom wpłynęło na wielogodzinne opóźnienie w uzyskaniu pomocy. Osoby te, zamiast wezwania karetki, podejmowały próby konsultacji ich samopoczucia z rodziną, umówienia wizyty do lekarza pierwszego kontaktu lub samodzielnie jechali na pogotowie, co opóźniało otrzymanie specjalistycznej pomocy i mogło stanowić dodatkowe zagrożenie dla ich stanu zdrowia, a nawet życia."
+    description: Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL.
 abc:
-    heading: ABC zawału
+    heading: Co Polacy wiedzą o zawale serca?
+    subheading: Polacy nie wiedzą, jak postępować podczas zawału serca!
     image: /img/red-stethoscope.jpg
-    text1: "Zawał serca oznacza martwicę wywołaną niedokrwieniem. Następuje on w momencie zamknięcia naczynia krwionośnego w sercu, co zwykle jest skutkiem pęknięcia blaszki miażdżycowej w naczyniu wieńcowym, czyli naczyniu doprowadzającym krew do serca. W związku brakiem dopływ krwi, a tym samym tlenu do mięśnia sercowego, obumiera odcięty fragmen serca."
+    text1: "Większość z nas prawidłowo wiąże ból w klatce piersiowej z zawałem lub inną chorobą serca. Ale tylko co czwarta osoba w przypadku pojawienia się takiego objawu zareagowałaby natychmiast – wynika z najnowszych badań SW Research.6 Tymczasem czas w zawale jest kwestią kluczową: im szybciej uzyskamy profesjonalną pomoc, tym większe szanse na przeżycie i lepsze wyniki leczenia."
 
-    text2: "Im dłużej tętnica (naczynie wieńcowe) jest zamknięta, tym większy obszar serca umiera. Szybkie rozpoczęcie leczenia mającego na celu otwarcie tętnicy zwiększa szansę na uratowanie mięśnia sercowego. Ilość czasu na interwencję jest jednak ograniczony. Zwykle po 3–6 godzinach umiera cały obszar mięśnia sercowego zaopatrywany przez zamkniętą tętnicę wieńcową i wówczas zmiany te są nieodwracalne, nawet przy zastosowaniu nowoczesnych metod leczenia."
+    text2: "Najczęstszymi objawami zawału serca są ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej. Występują one u większości chorych. Dobra wiadomość jest taka, że 74 proc. Polaków wie, że ból w klatce może oznaczać zawał lub inne problemy z sercem. Niestety, dużo gorzej jest z wiedzą, jak w tej sytuacji się zachować. Tylko 22,2 proc. osób czując ból w klatce zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałoby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5 proc.) nawet do następnego dnia. A przecież – jak podkreślają lekarze – od momentu zawału serca pomoc powinna być udzielona jak najszybciej, a od chwili rozpoznania zawału do zastosowania skutecznego leczenia nie powinno upłynąć więcej niż 60 – 90 min.7 W przeciwnym razie może dojść do zgonu lub poważnych powikłań, np. niewydolności serca. Te mało optymistyczne wnioski płyną z badania pt. „Zawał serca – Opinie Polaków” przeprowadzonego we wrześniu 2018 roku przez SW Research na grupie 1376 osób6 w ramach kampanii „Zawał serca – Czas to Życie”."
 
-    text3: "Czasem do zawału serca dochodzi w wyniku pęknięcia blaszki miażdżycowej. Zdarza się, że rosnąca przez długi czas blaszka miażdżycowa, doprowadza do dużego zwężenia naczynia, co znacznie ogranicza dopływ krwi do fragmentu serca, a tym samym zaopatrywania w tlen."
+    text3: "Czujesz silny bol w klatce piersiowej nie zwlekaj!"
 
 objawy:
     heading1: Najczęstsze objawy zawału serca
@@ -61,9 +73,6 @@ objawy:
     text10: "**Zapamiętaj**"
     text11: Osoby, które już przebyły zawał, często z powodu odmiennych objawów nie rozpoznają kolejnego. Każdy zawał może mieć inne objawy. 
 
-stats:
-    heading: Statystyki
-    text: "Rocznie w Polsce na zawał serca umiera blisko 200 000 osób. Według Głównego Urzędu Statystycznego z 2009 roku zawału serca doświadczyło kiedykolwiek w swoim życiu 3,3% Polaków, w tym 4,1% mężczyzn i 2,5% kobiet. Ryzyko wystąpienia zawału zwiększa się znacznie z wiekiem, np. zawał serca przebyło w przeszłości aż 14% osób w wieku 70–79 lat."
 
 postepowanie:
     heading: Postępowanie w przypadku zawału
