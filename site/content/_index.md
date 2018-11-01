@@ -13,7 +13,7 @@ oKampanii:
     subsections: 
         - heading: Postęp w leczeniu zawałów serca w Polsce
         - text:
-            - p: "W ciągu ostatniej dekady odnotowano znaczący postęp leczenia zawału serca w Polsce poprzez szerokie wprowadzenie tzw. interwencyjnych metod leczenia. Ponadto, Polska znajduje się w ścisłej czołówce w Europie pod względem liczby zabiegów angioplastyki tj. przezskórnego poszerzenia naczyń krwionośnych, które zostały zwężone lub zamknięte w wyniku choroby - najczęściej miażdżycy. Pozwoliło to znacznie obniżyć śmiertelność pacjentów z zawałem serca do około 18%.³,⁴ Nadal jednak istnieje konieczność zmiany zachowań, które poprawią rokowania pacjentów. Obszarem, który wymaga szczególnej uwagi są tzw. opóźnienia przedszpitalne."
+            - p: "W ciągu ostatniej dekady odnotowano znaczący postęp leczenia zawału serca w Polsce poprzez szerokie wprowadzenie tzw. interwencyjnych metod leczenia. Ponadto, Polska znajduje się w ścisłej czołówce w Europie pod względem liczby zabiegów angioplastyki tj. przezskórnego poszerzenia naczyń krwionośnych, które zostały zwężone lub zamknięte w wyniku choroby - najczęściej miażdżycy. Pozwoliło to znacznie obniżyć śmiertelność pacjentów z zawałem serca do około 18%.³ ⁴ Nadal jednak istnieje konieczność zmiany zachowań, które poprawią rokowania pacjentów. Obszarem, który wymaga szczególnej uwagi są tzw. opóźnienia przedszpitalne."
         - heading: Zawał serca i statystyki
         - text:
             - p: "Każde 30 minut opóźnienia w udrożnieniu zamkniętej tętnicy wieńcowej zwiększa ryzyko śmierci o 7,5 proc.⁵ U połowy Polaków z zawałem serca, czas od pierwszych objawów do udzielenia profesjonalnej pomocy w ośrodku kardiologii interwencyjnej wynosi prawie 4 i pól godziny.⁴ Od 2005 roku pomimo znaczącego zwiększenia liczby ośrodków kardiologii interwencyjnej w Polsce, czas ten uległ redukcji zaledwie o około 15 proc.⁴"
@@ -68,7 +68,7 @@ objawy:
     text8: obfite zimne poty i zawroty głowy
     image7: /img/6.png
     text9: lęk przed zbliżającą się śmiercią
-    text10: Pamietaj! Kazdy zawal moze miec inne objawy. Nawet u tej samej osoby, objawy kolejnego zawalu moga byc rozne.
+    text10: Pamiętaj! Każdy zawał serca może mieć inny przebieg. Nawet u tej samej osoby, objawy kolejnego zawału mogą być inne.
 
 
 postepowanie:
