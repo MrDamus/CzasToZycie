@@ -116,14 +116,16 @@ carousel:
         text6: "**112**"
         text7: "To są najważniejsze minuty Twojego życia!"
         text8: "ZAWAŁ SERCA – CZAS TO ŻYCIE"
-
+materialy:
+    heading: Materiały do pobrania
+    texts:
+        text1: "Informacja prasowa"
+        text2: 'Informacje o badaniu „Zawał serca – Opinie Polaków”'
+        text3: "Wypowiedzi ekspertów kampanii"
 
 partners:
     heading: "Partnerzy"
     text: "..."
-kontakt:
-    heading: Kontakt
-    text: "....."
 blog: 
     heading: Aktualności
     text: "....."
