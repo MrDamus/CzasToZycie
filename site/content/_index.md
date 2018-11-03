@@ -124,8 +124,21 @@ materialy:
         text3: "Wypowiedzi ekspertów kampanii"
 
 partners:
-    heading: "Partnerzy"
-    text: "..."
+    heading: "Organizatorzy"
+    subheadings:
+        subheading1: Honorowy patronat
+        subheading2: Komitet honorowy
+        subheading3: "Partnerzy naukowi:"
+        subheading4: Partner strategiczny
+        subheading5: Kampanię wspierają
+    texts:
+        text1: Śląskie Centrum Chorób Serca i Fundacja ŚCCS w Zabrzu
+        text2: "Małżonka Prezydenta RP Agaty Kornhauser-Dudy"
+        text3: "Minister Zdrowia prof. Łukasz Szumowski"
+    images:
+        image1: /img/7.png
+        image2: /img/1.png
+        
 blog: 
     heading: Aktualności
     text: "....."
