@@ -138,6 +138,16 @@ partners:
     images:
         image1: /img/7.png
         image2: /img/1.png
+zrodla: 
+    heading: Materiały źródłowe
+    texts:
+        text1: "Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL"
+        text2: 'Dudas K, et al. Circulation. 2011;123:46-52.'
+        text3: "Śląska Baza Sercowo-Naczyniowa"
+        text4: "Ogólnopolski Rejestr Ostrych Zespołów Wieńcowych PL-ACS"
+        text5: "De Luca G, et al. Circulation. 2004; 109: 1223-1225."
+        text6: "Badanie SW Search zrealizowane metodą CAWI w dniach 3-4.09.2018 na grupie 1376 respondentów, w ramach kampanii „Zawał serca - Czas to Życie."
+        text7: "Wytyczne ESC dotyczące postępowania w ostrym zawale serca z uniesieniem odcinka ST w 2017 roku (Kardiologia Polska 2018; 76, 2: 229–313)"
         
 blog: 
     heading: Aktualności
