@@ -73,16 +73,23 @@ objawy:
 
 postepowanie:
     heading: Postępowanie w przypadku zawału
-    image: /img/red-stethoscope.jpg
+    subheading: "Jak postępować w przypadku zawału serca:"
     texts:
-        text1: Czujesz silny ból w klatce piersiowej? Nie zwlekaj! Zadzwoń pod **112** i wezwij pogotowie!
-        text2: "Mając objawy typowe dla zawału serca, zadzwoń pod **112** nawet wówczas, gdy nie jesteś pewien, czy to zawał. Czas rozpoczęcia leczenia ma kluczowe znaczenie, a każda minuta wahania zwiększa ryzyko zgonu lub poważnych konsekwencji zdrowotnych. Pamiętaj: Każde 10 minut opóźnienia interwencji lekarza w przypadku zawału zabiera bezpowrotnie twoje zdrowie i życie!"
-        text3:  Dzwoniąc pod **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc osobę z twojego otoczenia. Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. Podczas kontaktu z depozytorem odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
-        text4: UWAGA
-        text5: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem), nie szukaj pomocy u krewnych lub u lekarza rodzinnego, natychmiast zadzwoń pod **112** i wezwij karetkę. 
-        text6: Czekając na karetkę, połóż się i nie wykonuj niepotrzebnych wysiłków. Jeśli mieszkasz w bloku lub na  trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom cię zlokalizować. Personel pogotowia ratunkowego jest przeszkolony w rozpoznawaniu objawów zawału serca. Karetka pogotowia zapewni ci szybki i bezpośredni dojazd do ośrodka, gdzie można rozpocząć leczenie.
-        text7: Jeśli masz zawał serca, będziesz potrzebował natychmiastowego leczenia – udrożnienia zatkanej tętnicy i przywrócenia dopływu krwi do serca. Takie postępowanie zatrzyma proces obumierania komórek mięśnia sercowego.
-        text8: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
+        text1: W przypadku silnego bólu w klatce piersiowej zadzwoń niezwłocznie pod numer **112**. 
+        text2: "Dzwoniąc pod numer **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc inną osobę."
+        text3: Podczas kontaktu z dyspozytorem medycznym numeru **112** odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres, pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
+        text4: Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. 
+        text5: Czekając na karetkę, przyjmij wygodną pozycję i nie wykonuj zbędnych czynności.
+        text6: Jeśli mieszkasz w bloku lub na trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom Cię zlokalizować.
+        text7: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
+        text8: UWAGA
+        text9: Nie zwlekaj!
+        text10: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem lub komunikacją miejską);
+        text11: Nie szukaj pomocy u krewnych lub u lekarza rodzinnego;
+        text12: Natychmiast zadzwoń pod numer **112** i wezwij karetkę pogotowia.
+        text13: Personel karetki pogotowia jest odpowiednio wykwalifikowany, by udzielić Ci pierwszej pomocy w przypadku zawału serca. Karetka zapewni szybki i bezpośredni dojazd do ośrodka, gdzie zostanie Ci udzielona dalsza pomoc.
+        text14: Pamiętaj! Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.
+
 
 carousel:
     heading: "Historie pacjentów"
