@@ -70,26 +70,26 @@ objawy:
     text9: lęk przed zbliżającą się śmiercią
     text10: Pamiętaj! Każdy zawał serca może mieć inny przebieg. Nawet u tej samej osoby, objawy kolejnego zawału mogą być inne.
 
-
 postepowanie:
     heading: Postępowanie w przypadku zawału
     subheading: "Jak postępować w przypadku zawału serca:"
-    texts:
-        text1: W przypadku silnego bólu w klatce piersiowej zadzwoń niezwłocznie pod numer **112**. 
-        text2: "Dzwoniąc pod numer **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc inną osobę."
-        text3: Podczas kontaktu z dyspozytorem medycznym numeru **112** odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres, pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
-        text4: Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. 
-        text5: Czekając na karetkę, przyjmij wygodną pozycję i nie wykonuj zbędnych czynności.
-        text6: Jeśli mieszkasz w bloku lub na trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom Cię zlokalizować.
-        text7: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
-        text8: UWAGA
-        text9: Nie zwlekaj!
-        text10: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem lub komunikacją miejską);
-        text11: Nie szukaj pomocy u krewnych lub u lekarza rodzinnego;
-        text12: Natychmiast zadzwoń pod numer **112** i wezwij karetkę pogotowia.
-        text13: Personel karetki pogotowia jest odpowiednio wykwalifikowany, by udzielić Ci pierwszej pomocy w przypadku zawału serca. Karetka zapewni szybki i bezpośredni dojazd do ośrodka, gdzie zostanie Ci udzielona dalsza pomoc.
-        text14: Pamiętaj! Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.
-
+    text:
+        - p: W przypadku silnego bólu w klatce piersiowej zadzwoń niezwłocznie pod numer **112**. 
+        - p: "Dzwoniąc pod numer **112** poproś o pomoc medyczną. Rozmawiaj spokojnie, a gdy sprawia Ci to trudność, poproś o pomoc inną osobę."
+        - p: Podczas kontaktu z dyspozytorem medycznym numeru **112** odpowiadaj konkretnie na zadawane pytania. Podaj dokładny adres, pod którym się znajdujesz i nie rozłączaj się przed końcem rozmowy.
+        - p: Jeśli nie masz telefonu, poproś o wezwanie pomocy kogoś z otoczenia. 
+        - p: Czekając na karetkę, przyjmij wygodną pozycję i nie wykonuj zbędnych czynności.
+        - p: Jeśli mieszkasz w bloku lub na trudno dostępnym terenie, poproś kogoś, aby pomógł ratownikom Cię zlokalizować.
+        - p: Szybko wykonany zabieg to mniejszy obszar serca objęty martwicą (tzw. blizna pozawałowa) i mniejsze ryzyko zgonu lub rozwoju groźnych powikłań, takich jak niewydolność serca.
+    text1: UWAGA
+    subsections:
+        text:
+            - p: Nie zwlekaj!
+            - p: Nie próbuj dojeżdżać do szpitala na własną rękę (np. samochodem lub komunikacją miejską);
+            - p: Nie szukaj pomocy u krewnych lub u lekarza rodzinnego;
+            - p: Natychmiast zadzwoń pod numer **112** i wezwij karetkę pogotowia.
+    text2: Personel karetki pogotowia jest odpowiednio wykwalifikowany, by udzielić Ci pierwszej pomocy w przypadku zawału serca. Karetka zapewni szybki i bezpośredni dojazd do ośrodka, gdzie zostanie Ci udzielona dalsza pomoc.
+    text3: Pamiętaj! Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.
 
 carousel:
     heading: "Historie pacjentów"
@@ -140,14 +140,14 @@ partners:
         image2: /img/1.png
 zrodla: 
     heading: Materiały źródłowe
-    texts:
-        text1: "Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL"
-        text2: 'Dudas K, et al. Circulation. 2011;123:46-52.'
-        text3: "Śląska Baza Sercowo-Naczyniowa"
-        text4: "Ogólnopolski Rejestr Ostrych Zespołów Wieńcowych PL-ACS"
-        text5: "De Luca G, et al. Circulation. 2004; 109: 1223-1225."
-        text6: "Badanie SW Search zrealizowane metodą CAWI w dniach 3-4.09.2018 na grupie 1376 respondentów, w ramach kampanii „Zawał serca - Czas to Życie."
-        text7: "Wytyczne ESC dotyczące postępowania w ostrym zawale serca z uniesieniem odcinka ST w 2017 roku (Kardiologia Polska 2018; 76, 2: 229–313)"
+    text:
+        - p: "Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL"
+        - p: 'Dudas K, et al. Circulation. 2011;123:46-52.'
+        - p: "Śląska Baza Sercowo-Naczyniowa"
+        - p: "Ogólnopolski Rejestr Ostrych Zespołów Wieńcowych PL-ACS"
+        - p: "De Luca G, et al. Circulation. 2004; 109: 1223-1225."
+        - p: "Badanie SW Search zrealizowane metodą CAWI w dniach 3-4.09.2018 na grupie 1376 respondentów, w ramach kampanii „Zawał serca - Czas to Życie."
+        - p: "Wytyczne ESC dotyczące postępowania w ostrym zawale serca z uniesieniem odcinka ST w 2017 roku (Kardiologia Polska 2018; 76, 2: 229–313)"
         
 blog: 
     heading: Aktualności
