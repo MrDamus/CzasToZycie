@@ -9,7 +9,7 @@ oKampanii:
     text: 
         - p: "Co roku, do szpitala trafia prawie **80 tysięcy** Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
         - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
-        w przypadku zawału. Honorowy patronat nad kampanią objęła Małżonka Prezydenta RP, **Agata Kornhauser-Duda**, a członkiem Komitetu Honorowego jest Minister Zdrowia **Prof. Łukasz Szumowski**."
+        w przypadku zawału. Honorowy patronat nad kampanią objęła **Małżonka Prezydenta RP, Agata Kornhauser-Duda**, a członkiem Komitetu Honorowego jest Minister Zdrowia **Prof. Łukasz Szumowski**."
     subsections: 
         - heading: Postęp w leczeniu zawałów serca w Polsce
         - text:
@@ -17,8 +17,8 @@ oKampanii:
         - heading: Zawał serca i statystyki
         - text:
             - p: "Każde 30 minut opóźnienia w udrożnieniu zamkniętej tętnicy wieńcowej **zwiększa ryzyko śmierci o 7,5%**⁵ U połowy Polaków z zawałem serca, czas od pierwszych objawów do udzielenia profesjonalnej pomocy w ośrodku kardiologii interwencyjnej wynosi prawie 4 i pól godziny.⁴ Od 2005 roku pomimo znaczącego zwiększenia liczby ośrodków kardiologii interwencyjnej w Polsce, czas ten uległ redukcji zaledwie o około 15%⁴"
-            - p: "Jak wynika z badań przeprowadzonych przez SW Research, aż 73,8%. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, niestety **tylko 22,2%** badanych czując ból zadzwoniłoby po pogotowie. Co czwarta osoba (23,5%) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby 
-            z wezwaniem pomocy – co piąty respondent (18,5 proc.) czekałby nawet do następnego dnia."
+            - p: "Jak wynika z badań przeprowadzonych przez SW Research, aż 73,8%. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, **niestety tylko 22,2% badanych czując ból zadzwoniłoby po pogotowie**. Co czwarta osoba (23,5%) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby 
+            z wezwaniem pomocy – co piąty respondent (18,5%) czekałby nawet do następnego dnia."
             - p: "To pokazuje, jak istotne jest budowanie społecznej świadomości problemu i edukacja 
              w zakresie właściwej reakcji na zagrożenie związane z zawałem serca. "
             - p: "Partnerem strategiczny kampanii **„Zawał serca – Czas to Życie”** jest Philips."
