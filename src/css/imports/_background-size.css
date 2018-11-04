@@ -1,6 +1,7 @@
 .cover { background-size: cover!important; }
 .image-cover { object-fit: cover!important; }
 .contain { background-size: contain!important; }
+.image-contain { object-fit: contain!important; }
 
 @media (--breakpoint-not-small) {
   .cover-ns { background-size: cover!important; }
