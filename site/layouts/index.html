@@ -12,21 +12,21 @@
 
 {{ partial "abc" (dict "heading" .Params.abc.heading "subheading" .Params.abc.subheading "text1" .Params.abc.text1 "text2" .Params.abc.text2 "text3" .Params.abc.text3 "image" .Params.abc.image) }}
 
-{{ partial "objawy" (dict "heading1" .Params.objawy.heading1 "heading2" .Params.objawy.heading2 "text1" .Params.objawy.text1 "text2" .Params.objawy.text2 "text3" .Params.objawy.text3 "text4" .Params.objawy.text4 "text5" .Params.objawy.text5 "text6" .Params.objawy.text6 "text7" .Params.objawy.text7 "text8" .Params.objawy.text8 "text9" .Params.objawy.text9 "text10" .Params.objawy.text10 "image1" .Params.objawy.image1 "image2" .Params.objawy.image2 "image3" .Params.objawy.image3 "image4" .Params.objawy.image4 "image5" .Params.objawy.image5 "image6" .Params.objawy.image6 "image7" .Params.objawy.image7) }}
+{{ partial "objawy" (dict "image1" .Params.objawy.image1 "heading1" .Params.objawy.heading1 "heading2" .Params.objawy.heading2 "text1" .Params.objawy.text1 "text10" .Params.objawy.text10 "text2" .Params.objawy.text2 "text3" .Params.objawy.text3 "thumbnails" .Params.objawy.thumbnails ) }}
 
-{{ partial "postepowanie" (dict "heading" .Params.postepowanie.heading "subheading" .Params.postepowanie.subheading "texts" .Params.postepowanie.texts ) }}
+{{ partial "postepowanie" (dict "heading" .Params.postepowanie.heading "subheading" .Params.postepowanie.subheading "text" .Params.postepowanie.text "text1" .Params.postepowanie.text1 "text2" .Params.postepowanie.text2 "text3" .Params.postepowanie.text3) }}
 
-{{ partial "socials" }}
+<!-- {{ partial "socials" }} -->
 
 {{ partial "carousel" (dict "heading" .Params.carousel.heading "items" .Params.carousel.items "texts" .Params.carousel.texts) }}
 
 {{ partial "materialy" (dict "heading" .Params.materialy.heading "texts" .Params.materialy.texts ) }}
 
-{{ partial "partners" (dict "heading" .Params.partners.heading "subheadings" .Params.partners.subheadings "texts" .Params.partners.texts ) }}
+{{ partial "partners" (dict "heading" .Params.partners.heading "subheadings" .Params.partners.subheadings "text" .Params.partners.text "texts" .Params.partners.texts "image" .Params.partners.image "rows" .Params.partners.rows "imgs" .Params.partners.imgs ) }}
 
-{{ partial "blog" . }}
+<!-- {{ partial "blog" . }} -->
 
-{{ partial "zrodla" (dict "heading" .Params.zrodla.heading "texts" .Params.zrodla.texts ) }}
+{{ partial "zrodla" (dict "heading" .Params.zrodla.heading "text" .Params.zrodla.text ) }}
  
 {{ end }}
  

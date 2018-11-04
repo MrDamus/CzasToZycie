@@ -5,25 +5,23 @@
     <div class="flex flex-column mhn2-l">
       <h2 class="f3 pa2 b lh-title">{{.subheading}}</h2>
       <ol class="flex flex-column ml3 ph2-l" style="list-style: decimal">
-          <li class="mw-none">{{.texts.text1 | markdownify}}</li>
-          <li class="mw-none">{{.texts.text2 | markdownify}}</li>
-          <li class="mw-none">{{.texts.text3 | markdownify}}</li>
-          <li class="mw-none">{{.texts.text4 | markdownify}}</li>
-          <li class="mw-none">{{.texts.text5 | markdownify}}</li>
-          <li class="mw-none">{{.texts.text6}}</li>
+          {{ range .text }}
+          <li class="mw-none">{{.p | markdownify}}</li>
+          {{ end }}
       </ol>
       <div class="b pa2">
-          {{.texts.text8}}<i class="fas fa-exclamation primary pl1"></i>
+          {{.text1}}<i class="fas fa-exclamation primary pl1"></i>
       </div>
       <div class="ph2-l">
-          <p><i class="fas mr2 fa-check"></i>{{.texts.text9}}</p>
-          <p><i class="fas mr2 fa-check"></i>{{.texts.text10}}</p>
-          <p><i class="fas mr2 fa-check"></i>{{.texts.text11}}</p>
-          <p><i class="fas mr2 fa-check"></i>{{.texts.text12 | markdownify}}</p>
+        {{ range .subsections }}
+          {{ range .text }}
+          <p><i class="fas mr2 fa-check"></i>{{.p | markdownify}}</p>
+          {{ end }}
+        {{ end }}
       </div>
       <div class="pt2 pl2">
-        <p>{{.texts.text13}}</p>
-        <p>{{.texts.text14}}</p>
+        <p>{{.text2}}</p>
+        <p>{{.text3}}</p>
       </div>
     </div>
   </div>

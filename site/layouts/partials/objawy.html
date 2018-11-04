@@ -30,35 +30,12 @@
     </div>
     <h2 class="f2 b lh-title mb2 pt4">{{.heading2}}</h2>
     <div class="flex flex-row flex-wrap justify-center mhn2-l">
+      {{ range .thumbnails }}
       <div class="flex flex-column ma2 w-30-l pa1 mw5">
-        <img src={{.image2}} alt="" class="w-100 mw45 self-center">
-        <p class="tc f6 mt2 mb1">{{.text4}}</p>
+        <img src={{ .image }} alt="" class="w-100 mw45 self-center h-200px w-200px br-50">
+        <p class="tc f6 mt2 mb1">{{ .text}}</p>
       </div>
-
-      <div class="flex flex-column ma2 w-30-l pa1 mw5">
-        <img src={{.image3}} alt="" class="w-100 mw45 self-center">
-        <p class="tc f6 mt2 mb1">{{.text5}}</p>
-      </div>
-
-      <div class="flex flex-column ma2 w-30-l pa1 mw5">
-        <img src={{.image4}} alt="" class="w-100 mw45 self-center">
-        <p class="tc f6 mt2 mb1">{{.text6}}</p>
-      </div>
-
-      <div class="flex flex-column ma2 w-30-l pa1 mw5">
-        <img src={{.image5}} alt="" class="w-100 mw45 self-center">
-        <p class="tc f6 mt2 mb1">{{.text7}}</p>
-      </div>
-
-      <div class="flex flex-column ma2 w-30-l pa1 mw5">
-        <img src={{.image6}} alt="" class="w-100 mw45 self-center">
-        <p class="tc f6 mt2 mb1">{{.text8}}</p>
-      </div>
-
-      <div class="flex flex-column ma2 w-30-l pa1 mw5">
-        <img src={{.image7}} alt="" class="w-100 mw45 self-center">
-        <p class="tc f6 mt2 mb1">{{.text9}}</p>
-      </div>
+      {{ end }}
     </div>
     <div class="ph2-l flex flex-row mw6 center ba br2 bg-primary white justify-around pa2">
         <div class="f15 mb0 pr2 pl2 ba br-50 self-center flex justify-center items-center" style="min-width: 100px; height: 100px;">
