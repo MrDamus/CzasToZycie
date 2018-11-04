@@ -5,7 +5,7 @@
     <div class="flex-l mhn2-l">
       <div class="w-80-l ph2-l">
         {{ range .text }}
-        <p>{{.p}}</p>
+        <p>{{.p | markdownify}}</p>
         {{ end }}
       </div>
       <div class="w-20-l w-60 ph2-l center">
@@ -16,7 +16,7 @@
     {{ range .subsections }}
     <h4 class="f4 b lh-title pt3" >{{.heading}}</h4>
       {{ range .text }}
-      <p>{{.p}}</p>
+      <p>{{.p  | markdownify}}</p>
       {{ end }}
     {{ end }}
   </div>
