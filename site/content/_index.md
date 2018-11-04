@@ -113,9 +113,6 @@ carousel:
         text3: "PAMIĘTAJ"
         text4: "Każde serce jest inne i w każdym przypadku zawał może przebiegać inaczej."
         text5: "Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
-        text6: "**112**"
-        text7: "To są najważniejsze minuty Twojego życia!"
-        text8: "ZAWAŁ SERCA – CZAS TO ŻYCIE"
 materialy:
     heading: Materiały do pobrania
     texts:
