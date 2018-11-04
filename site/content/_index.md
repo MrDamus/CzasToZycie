@@ -7,9 +7,9 @@ oKampanii:
     image: /img/serce.gif
     subheading: Kampania „Zawał serca – Czas to Życie” uświadamia, jak postępować w przypadku zawału serca. Kluczowy jest czas oraz wezwanie pogotowia.
     text: 
-        - p: "Co roku, do szpitala trafia prawie **80 tys.** Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
-        - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS **„Zawał serca – Czas to Życie”**, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
-        w przypadku zawału. Honorowy patronat nad kampanią objęła **Małżonka Prezydenta RP, Agata Kornhauser-Duda**, a członkiem Komitetu Honorowego jest **Minister Zdrowia Prof. Łukasz Szumowski**."
+        - p: "Co roku, do szpitala trafia prawie **80** tys. Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
+        - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS „Zawał serca – Czas to Życie”, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
+        w przypadku zawału. Honorowy patronat nad kampanią objęła Małżonka Prezydenta RP, Agata Kornhauser-Duda, a członkiem Komitetu Honorowego jest Minister Zdrowia Prof. Łukasz Szumowski."
     subsections: 
         - heading: Postęp w leczeniu zawałów serca w Polsce
         - text:
