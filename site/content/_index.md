@@ -50,24 +50,24 @@ abc:
 
 objawy:
     heading1: Najczęstsze objawy zawału serca
-    image1: /img/7.png
+    image1: /img/7.jpg
     text1: "Ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej – ma charakter rozlany, a nie punktowy; może się utrzymywać stale lub wielokrotnie ustępować i nawracać. Bólowi może towarzyszyć silny lęk."
     text2: "Ból może promieniować do barku, ręki, szyi lub żuchwy."
     text3: "U starszych osób lub chorujących na cukrzycę – ból może być mniej nasilony lub mniej charakterystyczny albo występować rzadziej."
-
     heading2: Co powinno zwrócić Twoją uwagę?
-    image2: /img/1.png
-    text4: ból w żuchwie, szyi, plecach ręce lub barku
-    image3: /img/2.png
-    text5: ból brzucha z towarzyszącymi nudnościami lub wymiotami
-    image4: /img/3.png
-    text6: duszność
-    image5: /img/4.png
-    text7: zasłabnięcia lub utrata przytomności
-    image6: /img/5.png
-    text8: obfite zimne poty i zawroty głowy
-    image7: /img/6.png
-    text9: lęk przed zbliżającą się śmiercią
+    thumbnails:
+            - image: /img/1.jpg
+              text: ból w żuchwie, szyi, plecach ręce lub barku
+            - image: /img/2.jpg
+              text: ból brzucha z towarzyszącymi nudnościami lub wymiotami
+            - image: /img/3.jpg
+              text: duszność
+            - image: /img/4.jpg
+              text: zasłabnięcia lub utrata przytomności
+            - image: /img/5.jpg
+              text: obfite zimne poty i zawroty głowy
+            - image: /img/6.jpg
+              text: lęk przed zbliżającą się śmiercią
     text10: Pamiętaj! Każdy zawał serca może mieć inny przebieg. Nawet u tej samej osoby, objawy kolejnego zawału mogą być inne.
 
 postepowanie:
@@ -128,16 +128,39 @@ partners:
     subheadings:
         subheading1: Honorowy patronat
         subheading2: Komitet honorowy
-        subheading3: "Partnerzy naukowi:"
-        subheading4: Partner strategiczny
-        subheading5: Kampanię wspierają
+    rows:
+        - heading: "Partnerzy naukowi:"
+          images: 
+            - src: /img/pan.png
+            - src: /img/sum.png
+            - src: /img/ptk.png
+            - src: /img/aisn.png
+        - heading: Partner strategiczny
+          images: 
+            - src: /img/philips.png
+        - heading: Kampanię wspierają
+          images: 
+            - src: /img/puop.png
+            - src: /img/sdk.png
+            - src: /img/pzu.png
+            - src: /img/pzpn.png
+            - src: /img/swr.png
+            - src: /img/dziennik.png
+            - src: /img/mp.png
+            - src: /img/pap.png
+            - src: /img/poradnik.png
+            - src: /img/przyjaciolka.png
+            - src: /img/express.png
+            - src: /img/wprost.png
     texts:
         text1: Śląskie Centrum Chorób Serca i Fundacja ŚCCS w Zabrzu
         text2: "Małżonka Prezydenta RP Agaty Kornhauser-Dudy"
         text3: "Minister Zdrowia prof. Łukasz Szumowski"
-    images:
-        image1: /img/7.png
-        image2: /img/1.png
+    imgs:
+        img1: /img/sccs.png
+        img2: /img/sccs-fundacja.png
+        img3: /img/mz.png
+
 zrodla: 
     heading: Materiały źródłowe
     text:
