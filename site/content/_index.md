@@ -8,19 +8,17 @@ oKampanii:
     subheading: Kampania „Zawał serca – Czas to Życie” uświadamia, jak postępować w przypadku zawału serca. Kluczowy jest czas oraz wezwanie pogotowia.
     text: 
         - p: "Co roku, do szpitala trafia prawie **80 tysięcy** Polaków z zawałem serca.¹ Z badań wynika, że co czwarty pacjent umiera zanim jeszcze trafi do szpitala.² Dlaczego? Jedną z najważniejszych przyczyn jest zbyt długie zwlekanie z wezwaniem pomocy."
-        - p: "Dlatego powstała ogólnopolska kampania Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
+        - p: "Dlatego powstała ogólnopolska kampania **Śląskiego Centrum Chorób Serca w Zabrzu oraz Fundacji ŚCCS**, której celem jest skrócenie opóźnień leczenia zawału serca poprzez edukację na temat właściwego postępowania 
         w przypadku zawału. Honorowy patronat nad kampanią objęła **Małżonka Prezydenta RP, Agata Kornhauser-Duda**, a członkiem Komitetu Honorowego jest Minister Zdrowia **Prof. Łukasz Szumowski**."
     subsections: 
         - heading: Postęp w leczeniu zawałów serca w Polsce
         - text:
-            - p: "W ciągu ostatniej dekady odnotowano znaczący postęp leczenia zawału serca w Polsce poprzez szerokie wprowadzenie tzw. interwencyjnych metod leczenia. Ponadto, Polska znajduje się w ścisłej czołówce w Europie pod względem liczby zabiegów angioplastyki tj. przezskórnego poszerzenia naczyń krwionośnych, które zostały zwężone lub zamknięte w wyniku choroby - najczęściej miażdżycy. Pozwoliło to znacznie obniżyć śmiertelność pacjentów z zawałem serca **do około 18%**.³ ⁴ Nadal jednak istnieje konieczność zmiany zachowań, które poprawią rokowania pacjentów. Obszarem, który wymaga szczególnej uwagi są tzw. opóźnienia przedszpitalne."
+            - p: "W ciągu ostatniej dekady odnotowano znaczący postęp leczenia zawału serca w Polsce poprzez szerokie wprowadzenie tzw. interwencyjnych metod leczenia. Ponadto, Polska znajduje się w ścisłej czołówce w Europie pod względem liczby zabiegów angioplastyki tj. przezskórnego poszerzenia naczyń krwionośnych, które zostały zwężone lub zamknięte w wyniku choroby - najczęściej miażdżycy. Pozwoliło to znacznie obniżyć śmiertelność pacjentów z zawałem serca do około 18%.³ ⁴ Nadal jednak istnieje konieczność zmiany zachowań, które poprawią rokowania pacjentów. Obszarem, który wymaga szczególnej uwagi są tzw. opóźnienia przedszpitalne."
         - heading: Zawał serca i statystyki
         - text:
-            - p: "Każde 30 minut opóźnienia w udrożnieniu zamkniętej tętnicy wieńcowej **zwiększa ryzyko śmierci o 7,5%**⁵ U połowy Polaków z zawałem serca, czas od pierwszych objawów do udzielenia profesjonalnej pomocy w ośrodku kardiologii interwencyjnej wynosi prawie 4 i pól godziny.⁴ Od 2005 roku pomimo znaczącego zwiększenia liczby ośrodków kardiologii interwencyjnej w Polsce, czas ten uległ redukcji zaledwie o około 15%⁴"
-            - p: "Jak wynika z badań przeprowadzonych przez SW Research, aż 73,8%. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, **niestety tylko 22,2% badanych czując ból zadzwoniłoby po pogotowie**. Co czwarta osoba (23,5%) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby 
-            z wezwaniem pomocy – co piąty respondent (18,5%) czekałby nawet do następnego dnia."
-            - p: "To pokazuje, jak istotne jest budowanie społecznej świadomości problemu i edukacja 
-             w zakresie właściwej reakcji na zagrożenie związane z zawałem serca. "
+            - p: "Każde 30 minut opóźnienia w udrożnieniu zamkniętej tętnicy wieńcowej zwiększa ryzyko śmierci o 7,5%.⁵ **U połowy Polaków z zawałem serca, czas od pierwszych objawów do udzielenia profesjonalnej pomocy w ośrodku kardiologii interwencyjnej wynosi ponad 260 minut**.⁴ Od 2005 roku pomimo znaczącego zwiększenia liczby ośrodków kardiologii interwencyjnej w Polsce, czas ten uległ redukcji zaledwie o około 15%⁴"
+            - p: "Jak wynika z badania przeprowadzonych przez SW Research „Zawał serca – Opinie Polaków”, aż 73,8%. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, **niestety tylko 22,2% badanych czując ból zadzwoniłoby po pogotowie**. Co czwarta osoba (23,5%) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5%) czekałby nawet do następnego dnia."
+            - p: "To pokazuje, jak istotne jest budowanie społecznej świadomości problemu i edukacja w zakresie właściwej reakcji na zagrożenie związane z zawałem serca. "
             - p: "Partnerem strategiczny kampanii **„Zawał serca – Czas to Życie”** jest Philips."
 
 letter:
@@ -35,16 +33,16 @@ stats:
     text:
         - p: "Zawał serca to stopniowe obumieranie mięśnia sercowego (tzw. martwica) wywołane niedrożnością naczynia lub naczyń krwionośnych, które się w nim znajdują. W związku 
 z brakiem dopływu krwi, a tym samym tlenu do mięśnia sercowego, obumiera „zajęty” fragment serca. Martwica powiększa się z każdą minutą trwania zawału."
-        - p: Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.
+        - p: "**Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.**"
         - p: "Tymczasem wiele osób zwleka z podjęciem właściwych działań. W kampanii poznajemy historie pacjentów, dla których codzienne obowiązki, różne obawy oraz przypisywanie złego samopoczucia innym powodom wpłynęło na wielogodzinne opóźnienie w uzyskaniu pomocy. Osoby te, zamiast wezwania karetki, podejmowały próby konsultacji ich samopoczucia z rodziną, umówienia wizyty do lekarza pierwszego kontaktu lub samodzielnie jechali na pogotowie, co opóźniało otrzymanie specjalistycznej pomocy i mogło stanowić dodatkowe zagrożenie dla ich stanu zdrowia, a nawet życia."
     description: Liczba zawałów w zależności od wieku pacjenta. Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL.
 abc:
     heading: Co Polacy wiedzą o zawale serca?
     subheading: Polacy nie wiedzą, jak postępować podczas zawału serca!
     image: /img/red-stethoscope.jpg
-    text1: "Większość z nas prawidłowo wiąże ból w klatce piersiowej z zawałem lub inną chorobą serca. Ale tylko co czwarta osoba w przypadku pojawienia się takiego objawu zareagowałaby natychmiast – wynika z najnowszych badań SW Research.⁶ Tymczasem czas w zawale jest kwestią kluczową: im szybciej uzyskamy profesjonalną pomoc, tym większe szanse na przeżycie i lepsze wyniki leczenia."
+    text1: "Większość z nas prawidłowo wiąże ból w klatce piersiowej z zawałem lub inną chorobą serca. **Ale tylko co czwarta osoba w przypadku pojawienia się takiego objawu zareagowałaby natychmiast** – wynika z najnowszych badań SW Research „Zawał serca – Opinie Polaków”.⁶ Tymczasem czas w zawale jest kwestią kluczową: im szybciej uzyskamy profesjonalną pomoc, tym większe szanse na przeżycie i lepsze wyniki leczenia."
 
-    text2: "Najczęstszymi objawami zawału serca są ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej. Występują one u większości chorych. Dobra wiadomość jest taka, że 74 proc. Polaków wie, że ból w klatce może oznaczać zawał lub inne problemy z sercem. Niestety, dużo gorzej jest z wiedzą, jak w tej sytuacji się zachować. Tylko 22,2 proc. osób czując ból w klatce zadzwoniłoby po pogotowie. Co czwarta osoba (23,5 proc.) zareagowałoby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5 proc.) nawet do następnego dnia. A przecież – jak podkreślają lekarze – od momentu zawału serca pomoc powinna być udzielona jak najszybciej, a od chwili rozpoznania zawału do zastosowania skutecznego leczenia nie powinno upłynąć więcej niż 60 – 90 min.⁷ W przeciwnym razie może dojść do zgonu lub poważnych powikłań, np. niewydolności serca. Te mało optymistyczne wnioski płyną z badania pt. „Zawał serca – Opinie Polaków” przeprowadzonego we wrześniu 2018 roku przez SW Research na grupie 1376 osób6 w ramach kampanii „Zawał serca – Czas to Życie”."
+    text2: "Najczęstszymi objawami zawału serca są ból (czasem bardzo silny), pieczenie lub ucisk za mostkiem w klatce piersiowej. Występują one u większości chorych. Dobra wiadomość jest taka, że 74 proc. Polaków wie, że ból w klatce może oznaczać zawał lub inne problemy z sercem. Niestety, dużo gorzej jest z wiedzą, jak w tej sytuacji się zachować. **Tylko 22,2 proc. osób czując ból w klatce zadzwoniłoby po pogotowie**. Co czwarta osoba (23,5 proc.) zareagowałoby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5 proc.) nawet do następnego dnia. A przecież – jak podkreślają lekarze – od momentu zawału serca pomoc powinna być udzielona jak najszybciej, a **od chwili rozpoznania zawału do zastosowania skutecznego leczenia nie powinno upłynąć więcej niż 60 – 90 min**.⁷ W przeciwnym razie może dojść do zgonu lub poważnych powikłań, np. niewydolności serca. Te mało optymistyczne wnioski płyną z badania pt. „Zawał serca – Opinie Polaków” przeprowadzonego we wrześniu 2018 roku przez SW Research na grupie 1376 osób6 w ramach kampanii „Zawał serca – Czas to Życie”."
 
     text3: "Czujesz silny bol w klatce piersiowej nie zwlekaj!"
 
@@ -113,6 +111,7 @@ carousel:
         text3: "PAMIĘTAJ"
         text4: "Każde serce jest inne i w każdym przypadku zawał może przebiegać inaczej."
         text5: "Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
+        
 materialy:
     heading: Materiały do pobrania
     texts:
