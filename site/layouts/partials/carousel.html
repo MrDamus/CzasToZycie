@@ -1,3 +1,14 @@
+<style>
+    @media screen and (max-width: 1250px) {
+      .imgDisplayLarge {
+        display: none;
+      }
+      .fullWidth{
+        width: 100%;
+      }
+    }
+  </style>
+
 <div id="historie" class="ph3 mw7 center pv4 pt4"><hr>
   <div class="flex-ns mhn2-ns flex-column pt4">
     <h2 class="f2 b di lh-title mb3">
@@ -7,11 +18,14 @@
           <div class="b-carousel__frame">
             <ul class="b-carousel__items">
               {{ range .items }}
-                <li>
-                  <h2>{{.name}}</h2>
-                  <p>
-                      {{.text1}}
-                  </p>
+                <li class="flex flex-row">
+                  <img src={{ .image }} alt="" class="mw45 pa3 self-center imgDisplayLarge image-cover greyscale h-200px w-200px br-50">
+                  <div class="dib w-70 fullWidth">
+                    <h2>{{.name}}</h2>
+                    <p>
+                      {{.text1 | markdownify }}
+                    </p>
+                  </div>
                 </li>
               {{ end }}
             </ul>

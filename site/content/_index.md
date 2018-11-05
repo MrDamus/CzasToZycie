@@ -91,18 +91,24 @@ postepowanie:
 carousel:
     heading: "Historie pacjentów"
     items:
-        - name: Maria, 62 lata – 3 godziny opóźnienia w ratowaniu serca!
+        - image: /img/prezydentowa.png
+          name: Maria, 62 lata – 3 godziny opóźnienia w ratowaniu serca!
           text1: "*Maria ma 62 lata. Opieka nad wnukami oraz obowiązki domowe sprawiły, że pomimo charakterystycznego bólu za mostkiem zwlekała z wezwaniem pomocy. Gdy ból robił się nieznośny, umówiła się na wizytę do lekarza rodzinnego. Karetkę wezwała pielęgniarka z przychodni, po wykonaniu EKG. Brak natychmiastowej reakcji i wezwania pogotowia ratunkowego przez Marię, gdy tylko pojawił się ból w klatce piersiowej, opóźniły rozpoczęcie prawidłowego leczenia o 3 godziny!*"
-        - name: Marek, 56 lat – 4 godziny opóźnienia w ratowaniu serca!
+        - image: /img/prezydentowa.png
+          name: Marek, 56 lat – 4 godziny opóźnienia w ratowaniu serca!
           text1: "*Marek jest 56-letnim kolarzem. Na jednym z ostatnich rajdów zlekceważył narastający ból w klatce piersiowej, myśląc, że to przemęczenie i ból mięśni po intensywnym treningu. Karetkę wezwali współuczestnicy rajdu, kiedy Marek nie był już w stanie jechać dalej. Niechęć Marka do wezwania pomocy sprawiła, że uzyskał on profesjonalną pomoc dopiero po 4 godzinach od rozpoczęcia zawału.*"
-        - name: Adam, 35 lat – 9 godzin opóźnienia w ratowaniu serca!
+        - image: /img/prezydentowa.png
+          name: Adam, 35 lat – 9 godzin opóźnienia w ratowaniu serca!
           text1: "*Adam ma 35 lat, podczas zagranicznych wakacji zaczął nagle odczuwać ból lewego barku, promieniujący do dłoni. Nie zgłaszał się do lekarza podejrzewając uraz w trakcie pływania, ponadto nie był pewny jakie koszty musiałby ponieść za dodatkową opiekę lekarską za granicą. Gdy ból nie ustępował, po 8 godzinach zgłosił się do hotelowego ambulatorium, gdzie lekarz rozpoznał zawał i wezwał karetkę. Obawy Adama sprawiły, że wdrożenie odpowiedniego leczenia zawału serca było opóźnione o 9 godzin.*"
-        - name: Agata, 61 lat – 5 godzin opóźnienia w ratowaniu serca!
+        - image: /img/prezydentowa.png
+          name: Agata, 61 lat – 5 godzin opóźnienia w ratowaniu serca!
           text1: "*Agata ma 61 lat. Jest prezesem firmy. Od kilku dni skarżyła się na nawracający ucisk 
           i pieczenie w klatce piersiowej. W dniu zebrania zarządu bóle przybrały na sile, ale zamiast wezwać karetkę Pani Prezes przyjęła leki na nadciśnienie tętnicze. Dopiero po zakończonym posiedzeniu, jeden ze współpracowników zawiózł Agatę do szpitala. Przedkładanie innych spraw ponad zdrowie spowodowało opóźnienie w rozpoczęciu leczenia zawału u Agaty o 5 godzin, a dojazd do szpitala na własną rękę stanowił dodatkowe narażenie zdrowia i życia pacjentki.*"
-        - name: Brygida, 65 lat – 14 godzin opóźnienia w ratowaniu serca!
+        - image: /img/prezydentowa.png
+          name: Brygida, 65 lat – 14 godzin opóźnienia w ratowaniu serca!
           text1: "*Brygida ma 65 lat i choruje na astmę. To był wyjątkowy dzień - ślub jej córki. Brygida już kiedy wstawała rano poczuła ból w klatce piersiowej, miała duszności i drżały jej dłonie. Uznała jednak, że to napad astmatyczny. Po zażyciu leków oraz krótkim odpoczynku, poczuła się trochę lepiej. Podczas trwania uroczystości weselnej Brygida czuła się coraz gorzej. Ostatecznie to rodzina wezwała karetkę pogotowia, która odwiozła chorą do szpitala. Zwlekanie z wezwaniem pogotowia ratunkowego spowodowało opóźnienie w leczeniu zawału u Brygidy o 14 godzin!*"
-        - name: Krzysztof, 43 lata – 6 godzin opóźnienia w ratowaniu serca!
+        - image: /img/prezydentowa.png
+          name: Krzysztof, 43 lata – 6 godzin opóźnienia w ratowaniu serca!
           text1: "*Krzysztof ma 43 lata i od kilku dni miał infekcję dróg oddechowych. Lekarz zalecił mu przyjmowanie antybiotyku i leków przeciwgorączkowych. Po kilku dniach leczenia pojawił się u Krzysztofa dziwny ból w klatce piersiowej. Kiedy ból kolejny raz się nasilił, Krzysztof pojechał samochodem do szpitala. Podczas konsultacji z lekarzem, rozpoznano u niego zawał serca. Decyzja o dojeździe na Izbę Przyjęć we własnym zakresie, wiązała się z narażeniem życia i zdrowia Krzysztofa, a brak natychmiastowej reakcji na objawy zawału spowodował ponad 6-cio godzinne opóźnienie w rozpoczęciu leczenia.*"
     texts:
         text1: "Maria, Marek, Adam, Agata, Brygida i Krzysztof mieli szczęście, że mimo opóźnionej reakcji na objawy zawału, specjaliści zdążyli udzielić im pomocy. Obecna kondycja ich serca nie pozwoli im jednak cieszyć się taka aktywnością, jaką znali przed zawałem."
