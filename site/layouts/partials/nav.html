@@ -29,7 +29,7 @@
 	}
 	
 	@media screen and (max-width: 960px) {
-		.topnav.responsive {position: relative;}
+		.topnav.responsive {position: sticky;}
 		.topnav.responsive .icon {
 			position: absolute;
 			right: 0;
@@ -43,7 +43,7 @@
 	}
 	</style>
 <nav class="justify-center overflow-x-scroll z-9999 overflow-x-visible-ns sticky items-center center bg-white divider-grey relative b grey-3 topnav flex " id="myTopnav">
-	<a href="#about" class="pa0 h-100 flex-none" style="padding: 0px">
+	<a id="navbar-logo" href="#about" class="pa0 h-100 flex-none" style="padding: 0px">
 			<img src="/img/logo.jpg" alt="" class="br0 mb0" style="height: 45px"/>
 	</a>
 	<a href="#about" class="pa3 no-underline db">O Kampanii</a>
@@ -56,14 +56,18 @@
   </a>
 	<script>
 		function toggleNavigation() {
-				const fullscreenClass = "justify-center overflow-x-scroll z-9999 overflow-x-visible-ns sticky items-center center bg-white divider-grey relative b grey-3 topnav flex"
-				const mobileClass = "justify-between overflow-x-scroll z-9999 overflow-x-visible-ns sticky items-center center bg-white divider-grey relative b grey-3 topnav responsive"
+				const closed = "justify-center overflow-x-scroll z-9999 overflow-x-visible-ns sticky items-center center bg-white divider-grey relative b grey-3 topnav flex "
+				const open = "justify-between overflow-x-scroll z-9999 overflow-x-visible-ns sticky items-center center bg-white divider-grey b grey-3 topnav responsive"
 
-				var x = document.getElementById("myTopnav");
-				if (x.className === fullscreenClass) {
-						x.className = mobileClass;
+				var navbar = document.getElementById("myTopnav");
+				var navbarLogo = document.getElementById("navbar-logo");
+				if (navbar.className === closed) {
+						navbar.className = open;
+						navbarLogo.style.padding = "7px"
+
 				} else {
-						x.className = fullscreenClass;
+						navbar.className = closed;
+						navbarLogo.style.padding = 0
 				}
 		}
 	</script>		
