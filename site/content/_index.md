@@ -168,7 +168,7 @@ kontakt:
         texts:
           - p: Śląskie Centrum Chorób Serca w Zabrzu 
           - p: Ul. M. Curie-Skłodowskiej 9
-          - p: "Tel.: 32 3733853"
+          - p: "Tel.: 32 373 38 53"
           - p: "Kom.: 501 097 146"
         a: l.broja@sccs.pl
       - h: Izabela Filc-Redlińska
