@@ -4,7 +4,7 @@
 .br2 {        border-radius: var(--border-radius-large); }
 
 .br-100 {     border-radius: 100%; }
-.br-50 {     border-radius: 50%; }
+.br-50 {     border-radius: 50% !important; }
 
 .br-pill {    border-radius: 9999px; }
 

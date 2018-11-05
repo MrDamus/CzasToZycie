@@ -19,10 +19,10 @@
             <ul class="b-carousel__items">
               {{ range .items }}
                 <li class="flex flex-row">
-                  <img src={{ .image }} alt="" class="mw45 pa3 self-center imgDisplayLarge image-cover greyscale h-200px w-200px br-50">
+                  <img src={{ .image }} alt="" class="mw45 pa3 br-50 self-center imgDisplayLarge image-cover greyscale h-200px w-200px br-50">
                   <div class="dib w-70 fullWidth">
                     <h2>{{.name}}</h2>
-                    <p>
+                    <p class="f6">
                       {{.text1 | markdownify }}
                     </p>
                   </div>
