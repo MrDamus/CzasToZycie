@@ -31,8 +31,7 @@ letter:
 stats:
     heading: Zawał serca - czyli kiedy serce umiera
     text:
-        - p: "Zawał serca to stopniowe obumieranie mięśnia sercowego (tzw. martwica) wywołane niedrożnością naczynia lub naczyń krwionośnych, które się w nim znajdują. W związku 
-z brakiem dopływu krwi, a tym samym tlenu do mięśnia sercowego, obumiera „zajęty” fragment serca. Martwica powiększa się z każdą minutą trwania zawału."
+        - p: "Zawał serca to stopniowe obumieranie mięśnia sercowego (tzw. martwica) wywołane niedrożnością naczynia lub naczyń krwionośnych, które się w nim znajdują. W związku z brakiem dopływu krwi, a tym samym tlenu do mięśnia sercowego, obumiera „zajęty” fragment serca. Martwica powiększa się z każdą minutą trwania zawału."
         - p: "**Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale.**"
         - p: "Tymczasem wiele osób zwleka z podjęciem właściwych działań. W kampanii poznajemy historie pacjentów, dla których codzienne obowiązki, różne obawy oraz przypisywanie złego samopoczucia innym powodom wpłynęło na wielogodzinne opóźnienie w uzyskaniu pomocy. Osoby te, zamiast wezwania karetki, podejmowały próby konsultacji ich samopoczucia z rodziną, umówienia wizyty do lekarza pierwszego kontaktu lub samodzielnie jechali na pogotowie, co opóźniało otrzymanie specjalistycznej pomocy i mogło stanowić dodatkowe zagrożenie dla ich stanu zdrowia, a nawet życia."
     description: Liczba zawałów w zależności od wieku pacjenta. Narodowa Baza Danych Zawałów Serca w Polsce AMI-PL.
