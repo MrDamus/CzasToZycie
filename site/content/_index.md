@@ -138,7 +138,6 @@ partners:
             - src: /img/pzu.png
             - src: /img/pzpn.png
             - src: /img/swr.png
-            - src: /img/swr.png
             - src: /img/dziennik.png
             - src: /img/mp.png
             - src: /img/pap.png
