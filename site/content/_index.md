@@ -125,9 +125,9 @@ partners:
     rows:
         - heading: "Partnerzy naukowi:"
           images: 
+            - src: /img/ptk.png
             - src: /img/pan.png
             - src: /img/sum.png
-            - src: /img/ptk.png
             - src: /img/aisn.png
         - heading: Partner strategiczny
           images: 
