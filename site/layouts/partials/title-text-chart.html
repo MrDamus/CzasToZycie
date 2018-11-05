@@ -5,7 +5,7 @@
     <h2 class="f2 b lh-title mb2 pt4">{{.heading}}</h2>
     <div class="mhn2-l ph2-l">
         {{ range .text }}
-        <p><i class="fas mr2 fa-check"></i>{{.p | markdownify}}</p>
+        <p>{{.p | markdownify}}</p>
         {{ end }}
     </div>
     <div>
