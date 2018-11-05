@@ -1,6 +1,6 @@
 ---
-title: "Zawał! Twoje serce"
-subtitle: Umiera z każdą minutą
+title: "ZAWAŁ! TWOJE SERCE"
+subtitle: UMIERA Z KAŻDĄ MINUTĄ
 image: /img/heart-attack.jpg
 oKampanii:
     heading: O Kampanii
