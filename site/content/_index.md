@@ -113,8 +113,9 @@ materialy:
     heading: Materiały do pobrania
     texts:
         text1: "Informacja prasowa"
-        text2: 'Informacje o badaniu „Zawał serca – Opinie Polaków”'
-        text3: "Wypowiedzi ekspertów kampanii"
+        text2: 'Wyniki badań „Zawał serca – Opinie Polaków”'
+        text3: "Wypowiedzi ekspertów i partnerów kampanii"
+        text4: "Historie pacjentów"
 
 partners:
     heading: "Organizatorzy"
