@@ -18,7 +18,7 @@
     <div class="flex-l mhn2-l">
       
       <div class="w-60-l ph2-l">
-        <p>{{.text1}}</p>
+        <p>{{.text1 | markdownify}}</p>
       </div>
       
       <div class="w-40-l ph2-l">
@@ -27,8 +27,8 @@
     </div>
     <div class="ph2-l">
 
-      <p class="mw-none">{{.text2}}</p>
-      <p class="mw-none">{{.text3}}</p>
+      <p class="mw-none">{{.text2 | markdownify}}</p>
+      <p class="mw-none">{{.text3 | markdownify}}</p>
     </div>
  
   </div>

@@ -107,7 +107,7 @@ carousel:
     texts:
         text1: "Maria, Marek, Adam, Agata, Brygida i Krzysztof mieli szczęście, że mimo opóźnionej reakcji na objawy zawału, specjaliści zdążyli udzielić im pomocy. Obecna kondycja ich serca nie pozwoli im jednak cieszyć się taka aktywnością, jaką znali przed zawałem."
         text2: "Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale."
-    text3: "Pamiętaj! Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
+        text3: "Pamiętaj! Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
         
 materialy:
     heading: Materiały do pobrania
@@ -154,6 +154,23 @@ partners:
         img1: /img/sccs.png
         img2: /img/sccs-fundacja.png
         img3: /img/mz.png
+
+kontakt:
+    heading: "Kontakt"
+    subheadings:
+      - h: Lucyna Broja
+        texts:
+          - p: Śląskie Centrum Chorób Serca w Zabrzu 
+          - p: Ul. M. Curie-Skłodowskiej 9
+          - p: "Tel.: 32 3733853"
+          - p: "Kom.: 501 097 146"
+        a: l.broja@sccs.pl
+      - h: Izabela Filc-Redlińska
+        texts:
+          - p: FleishmanHillard 
+          - p: "Kom: +48 22 609 220 550"
+        a: izabela.filc-redlinska@fleishmaneurope.com
+
 
 zrodla: 
     heading: Materiały źródłowe
