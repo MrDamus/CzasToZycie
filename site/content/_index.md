@@ -108,9 +108,7 @@ carousel:
     texts:
         text1: "Maria, Marek, Adam, Agata, Brygida i Krzysztof mieli szczęście, że mimo opóźnionej reakcji na objawy zawału, specjaliści zdążyli udzielić im pomocy. Obecna kondycja ich serca nie pozwoli im jednak cieszyć się taka aktywnością, jaką znali przed zawałem."
         text2: "Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale."
-        text3: "PAMIĘTAJ"
-        text4: "Każde serce jest inne i w każdym przypadku zawał może przebiegać inaczej."
-        text5: "Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
+        text3: "Pamiętaj! Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
         
 materialy:
     heading: Materiały do pobrania
