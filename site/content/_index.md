@@ -138,6 +138,7 @@ partners:
             - src: /img/sdk.png
             - src: /img/pzu.png
             - src: /img/pzpn.png
+            - src: /img/swr_logo_skrot.png
             - src: /img/swr.png
             - src: /img/dziennik.png
             - src: /img/mp.png
