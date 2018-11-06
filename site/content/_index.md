@@ -104,14 +104,11 @@ carousel:
           name: Agata, 61 lat – 5 godzin opóźnienia w ratowaniu serca!
           text1: "*Agata ma 61 lat. Jest prezesem firmy. Od kilku dni skarżyła się na nawracający ucisk 
           i pieczenie w klatce piersiowej. W dniu zebrania zarządu bóle przybrały na sile, ale zamiast wezwać karetkę Pani Prezes przyjęła leki na nadciśnienie tętnicze. Dopiero po zakończonym posiedzeniu, jeden ze współpracowników zawiózł Agatę do szpitala. Przedkładanie innych spraw ponad zdrowie spowodowało opóźnienie w rozpoczęciu leczenia zawału u Agaty o 5 godzin, a dojazd do szpitala na własną rękę stanowił dodatkowe narażenie zdrowia i życia pacjentki.*"
-        - image: /img/brygida.jpg
-          name: Brygida, 65 lat – 14 godzin opóźnienia w ratowaniu serca!
-          text1: "*Brygida ma 65 lat i choruje na astmę. To był wyjątkowy dzień - ślub jej córki. Brygida już kiedy wstawała rano poczuła ból w klatce piersiowej, miała duszności i drżały jej dłonie. Uznała jednak, że to napad astmatyczny. Po zażyciu leków oraz krótkim odpoczynku, poczuła się trochę lepiej. Podczas trwania uroczystości weselnej Brygida czuła się coraz gorzej. Ostatecznie to rodzina wezwała karetkę pogotowia, która odwiozła chorą do szpitala. Zwlekanie z wezwaniem pogotowia ratunkowego spowodowało opóźnienie w leczeniu zawału u Brygidy o 14 godzin!*"
         - image: /img/krzysztof.jpg
           name: Krzysztof, 43 lata – 6 godzin opóźnienia w ratowaniu serca!
           text1: "*Krzysztof ma 43 lata i od kilku dni miał infekcję dróg oddechowych. Lekarz zalecił mu przyjmowanie antybiotyku i leków przeciwgorączkowych. Po kilku dniach leczenia pojawił się u Krzysztofa dziwny ból w klatce piersiowej. Kiedy ból kolejny raz się nasilił, Krzysztof pojechał samochodem do szpitala. Podczas konsultacji z lekarzem, rozpoznano u niego zawał serca. Decyzja o dojeździe na Izbę Przyjęć we własnym zakresie, wiązała się z narażeniem życia i zdrowia Krzysztofa, a brak natychmiastowej reakcji na objawy zawału spowodował ponad 6-cio godzinne opóźnienie w rozpoczęciu leczenia.*"
     texts:
-        text1: "Maria, Marek, Adam, Agata, Brygida i Krzysztof mieli szczęście, że mimo opóźnionej reakcji na objawy zawału, specjaliści zdążyli udzielić im pomocy. Obecna kondycja ich serca nie pozwoli im jednak cieszyć się taka aktywnością, jaką znali przed zawałem."
+        text1: "Maria, Marek, Adam, Agata i Krzysztof mieli szczęście, że mimo opóźnionej reakcji na objawy zawału, specjaliści zdążyli udzielić im pomocy. Obecna kondycja ich serca nie pozwoli im jednak cieszyć się taka aktywnością, jaką znali przed zawałem."
         text2: "Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale."
         text3: "Pamiętaj! Gdy rozpoznasz objawy charakterystyczne dla zawału serca u siebie lub osoby w Twoim otoczeniu nie zwlekaj. Zadzwoń po pogotowie!"
         
