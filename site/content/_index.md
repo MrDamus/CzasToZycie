@@ -20,6 +20,27 @@ oKampanii:
             - p: "Jak wynika z badania przeprowadzonych przez SW Research „Zawał serca – Opinie Polaków”, aż 73,8%. Polaków wie, że ból w klatce piersiowej może oznaczać zawał lub inne problemy z sercem, **niestety tylko 22,2% badanych czując ból zadzwoniłoby po pogotowie**. Co czwarta osoba (23,5%) zareagowałaby natychmiast, podczas gdy trzy czwarte zwlekałoby z wezwaniem pomocy – co piąty respondent (18,5%) czekałby nawet do następnego dnia."
             - p: "To pokazuje, jak istotne jest budowanie społecznej świadomości problemu i edukacja w zakresie właściwej reakcji na zagrożenie związane z zawałem serca. "
             - p: "Partnerem strategiczny kampanii **„Zawał serca – Czas to Życie”** jest Philips."
+            
+carousel_quotes:
+    heading: "Historie pacjentów"
+    items:
+        - image: /img/cytat1.jpg
+          name: "Prof. dr hab. n. med. Mariusz Gąsior \n\n
+           Koordynator Kampanii Kierownik III Katedry i Oddziału Klinicznego Kardiologii Śląskiego Uniwersytetu Medycznego"
+          text1: "*Jako organizatorzy kampanii społecznej Zawał serca – Czas to Życie, liczymy, że dostarczy ona Polakom wiedzy na temat tego, jak postępować w przypadku podejrzenia zawału serca i tym samym przełoży się na właściwe reakcje w realnym życiu. Jest to nie tylko w interesie samych pacjentów, ale także nas – lekarzy kardiologów. Ponieważ im szybciej jesteśmy w stanie udzielić pomocy medycznej, tym lepsze możemy uzyskać wyniki leczenia*"
+        - image: /img/cytat2.jpg
+          name: "Prof. dr hab. n. med. Marian Zembala \n\n Dyrektor Naczelny Śląskiego Centrum Chorób Serca w Zabrzu"
+          text1: "*Niewielu z nas zdaje sobie sprawę, że już od pierwszych minut zawału w sercu powstają nieodwracalne zmiany, które postępują z upływem czasu. Będą one mieć znaczący wpływ na szanse przeżycia oraz jakość życia chorego po zawale. Wielu z nas uważa, że zawał serca ich nie dotyczy i nawet gdy objawy wskazują na początek zawału, zwlekają z reakcją tak długo, jak to tylko możliwe. Czasem kilka, kilkanaście, a czasem nawet kilkadziesiąt godzin. Tymczasem w przypadku zawału serca reakcja musi być natychmiastowa, bo im szybciej chory trafi w ręce specjalistów, tym większe są jego szanse na przeżycie, a także na normalne życie po zawale.*"
+        - image: /img/cytat4.jpg
+          name: "Reinier Schlatmann \n\n Prezes Philips w Europie Środkowo-Wschodniej, Partner strategiczny kampanii"
+          text1: "*Polska może poszczycić się jednymi z najlepszych standardów postępowania w przypadkach wystąpienia ostrych incydentów kardiologicznych na świecie, a Polscy lekarze potrafią skutecznie leczyć zawał, jednak co czwarty pacjent umiera, bo zbyt późno zadzwonił po karetkę. Z tego powodu tak ważne są działania edukacyjne i budujące świadomość osób narażonych na zawał oraz ich bliskich. Mamy nadzieję, że ta kampania w znaczący sposób wpłynie na poprawę zdrowia pacjentów kardiologicznych.*"
+        - image: /img/cytat3.jpg
+          name: "Beata Ambroziewicz \n\n Prezes Polskiej Unii Organizacji Pacjentów"
+          text1: "*Wiedza ratuje zdrowie i życie to motto naszych działań edukacyjnych na rzecz pacjentów, idealnie wpisuje się także w przesłanie kampanii Zawał Serca - Czas to Życie, w ramach której podkreślamy jak świadomość prostych zasad postępowania przy podejrzeniu zawału serca może uratować życie setkom osób rocznie. Będąc partnerem społecznym kampanii, chcemy nieść to przesłanie za pośrednictwem organizacji pacjentów, dalej do społeczeństwa, kobiet i mężczyzn, bez względu na wiek. W obecnych warunkach każda osoba z zawałem serca ma szanse na skuteczne leczenie i życie bez powikłań, liczy się czas reakcji. Zachęcam wszystkich do poparcia i aktywnego włączenia się do akcji „Zawał Serca - Czas to Życie”!*"
+
+    texts:
+        text1: "Maria, Marek, Adam, Agata i Krzysztof mieli szczęście, że mimo opóźnionej reakcji na objawy zawału, specjaliści zdążyli udzielić im pomocy. Obecna kondycja ich serca nie pozwoli im jednak cieszyć się taka aktywnością, jaką znali przed zawałem."
+        text2: "Tylko szybka reakcja i bezzwłoczne rozpoczęcie odpowiedniego leczenia zwiększają szansę na przeżycie oraz dobrą jakość życia po zawale."
 
 letter:
     image: /img/prezydentowa.png
