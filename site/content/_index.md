@@ -22,7 +22,7 @@ oKampanii:
             - p: "Partnerem strategiczny kampanii **„Zawał serca – Czas to Życie”** jest Philips."
             
 carousel_quotes:
-    heading: "Historie pacjentów"
+    heading: "Wypowiedzi ekspertów i partnerów kampanii"
     items:
         - image: /img/cytat1.jpg
           name: "Prof. dr hab. n. med. Mariusz Gąsior \n\n
