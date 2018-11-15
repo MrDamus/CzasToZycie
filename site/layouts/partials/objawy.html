@@ -8,6 +8,11 @@
         max-width: none;
     }
   }
+  @media screen and (max-width: 796px) {
+    #imgWrapper {
+      width: 50%!important;
+    }
+  }
 </style>
 
 <div id="objawy" class="pv4">
@@ -17,7 +22,7 @@
     <h2 class="f2 b lh-title mb2 pt4">{{.heading1}}</h2>
     <div class="flex-l mhn2-l">
       
-      <div class="flex flex-column ma2 w-30-l pa1 mw5" style="margin-left: 5%">
+      <div id="imgWrapper" class="flex flex-column ma2 w-30-l w-50-s w-50-ns pa1 mw5" style="margin-left: 5%">
         <img src={{.image1}} alt="" class="w-100 mw45 self-center image-cover greyscale h-200px w-200px br-50">
       </div>
       
