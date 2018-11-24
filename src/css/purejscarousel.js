@@ -74,10 +74,10 @@ export default StyleSheet.create({
     'boxShadow': [{ 'unit': 'string', 'value': 'none' }, { 'unit': 'string', 'value': 'none' }, { 'unit': 'string', 'value': 'none' }, { 'unit': 'string', 'value': 'none' }]
   },
   'b-carousel__nav-arrow_prev': {
-    'left': [{ 'unit': 'px', 'value': -75 }]
+    'left': [{ 'unit': 'px', 'value': -35 }]
   },
   'b-carousel__nav-arrow_next': {
-    'right': [{ 'unit': 'px', 'value': -75 }]
+    'right': [{ 'unit': 'px', 'value': -35 }]
   },
   'b-carousel__nav-dots': {
     'display': 'inline-block',
