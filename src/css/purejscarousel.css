@@ -54,12 +54,20 @@
   }
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 430px) {
   .b-carousel {
     width: 300px!important;
   }
   .b-carousel__items li {
     width: 300px!important;
+  }
+}
+@media screen and (max-width: 330px) {
+  .b-carousel {
+    width: 250px!important;
+  }
+  .b-carousel__items li {
+    width: 250px!important;
   }
 }
 
