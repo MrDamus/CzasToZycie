@@ -1,0 +1,21 @@
+.iframeContainer {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.iframeContainer iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
+/* 4x3 Aspect Ratio */
+.iframeContainer-4x3 {
+  padding-top: 75%;
+}
