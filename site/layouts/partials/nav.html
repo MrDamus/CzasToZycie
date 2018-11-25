@@ -43,7 +43,11 @@
 	}
 	</style>
 <nav class="justify-center overflow-x-scroll z-9999 overflow-x-visible-ns sticky items-center center bg-white divider-grey relative b grey-3 topnav flex " id="myTopnav">
-	<a id="navbar-logo" href="#about" class="pa0 h-100 flex-none" style="padding: 0px">
+	<a id="navbar-logo" 
+		href="#about" 
+		class="h-100 flex-none" 
+		style="padding: 7px
+		margin: 2px;">
 			<img src="/img/logo.jpg" alt="" class="br0 mb0" style="height: 45px"/>
 	</a>
 	<a href="#about" class="pa3 no-underline db">O Kampanii</a>
@@ -64,11 +68,11 @@
 				var navbarLogo = document.getElementById("navbar-logo");
 				if (navbar.className === closed) {
 						navbar.className = open;
-						navbarLogo.style.padding = "7px"
+						// navbarLogo.style.padding = "7px"
 
 				} else {
 						navbar.className = closed;
-						navbarLogo.style.padding = 0
+						navbarLogo.style.marginTop = 2
 				}
 		}
 	</script>		

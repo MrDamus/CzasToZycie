@@ -147,7 +147,7 @@ partners:
         subheading1: Honorowy patronat
         subheading2: Komitet honorowy
     rows:
-        - heading: "Partnerzy naukowi:"
+        - heading: Partnerzy naukowi
           images: 
             - src: /img/ptk.png
             - src: /img/pan.png
