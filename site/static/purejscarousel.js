@@ -151,3 +151,18 @@ var carousel = new Carousel({
   arrPrevText: '‹'
 });
 carousel.initSlide();
+
+var carouselHistories = new Carousel({
+  el: "carousel-histories",       // id of the carousel container
+  infinite: true,       // infinite loop
+  autoplay: true,       // starts the rotation automatically
+  interval: 10000,      // interval between slide changes
+  show: 0,              // slide to start with
+  dots: applyDots,      // show navigation dots
+  arrows: applyArrows,  // show navigation arrows
+  buttons: false,       // show play/stop buttons
+  arrNextText: '›',
+  arrPrevText: '‹'
+});
+
+carouselHistories.initSlide();

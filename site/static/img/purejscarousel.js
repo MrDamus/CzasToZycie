@@ -422,6 +422,5 @@ var carousel = new PureJSCarousel({
   slide: '.carousel-slide'
 });
 
-console.log(carousel);
 carousel.enableControl();
 carousel.startAutoplay('next');
